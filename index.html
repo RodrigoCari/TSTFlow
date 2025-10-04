@@ -5,14 +5,56 @@
   <title>Mapa de Plantas en Peligro de Extinción en Perú</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <style>
-    body, html { margin:0; padding:0; height:100%; }
+    body, html { margin:0; padding:0; height:100%; font-family: Arial, sans-serif; }
     #map { height: 100vh; width: 100vw; }
+
+    /* Sidebar */
+    #sidebar {
+      position: absolute;
+      right: 0;
+      top: 0;
+      height: 100vh;
+      width: 0;
+      background: #fff;
+      box-shadow: -4px 0 12px rgba(0,0,0,0.2);
+      overflow: auto;
+      transition: width 0.25s ease;
+      z-index: 1000;
+      padding: 0 16px;
+    }
+    #sidebar.open { width: 340px; padding: 16px; }
+    #sidebar .close-btn {
+      display: inline-block;
+      margin: 8px 0 12px;
+      padding: 6px 10px;
+      background: #f1f1f1;
+      border-radius: 6px;
+      cursor: pointer;
+      border: 1px solid #ddd;
+    }
+    #sidebar img.photo {
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+      margin-bottom: 10px;
+    }
+    #sidebar h3 { margin: 6px 0; font-size: 18px; }
+    #sidebar .meta { font-size: 14px; color: #333; }
+    #sidebar .meta strong { display:inline-block; width:110px; color:#111; }
+    /* popup image styling (in popup HTML) */
+    .popup-thumb { width:120px; height:auto; display:block; border-radius:4px; margin-top:6px; }
   </style>
 </head>
 <body>
   <div id="map"></div>
 
+  <div id="sidebar" aria-hidden="true">
+    <div class="close-btn" id="closeSidebar">Cerrar ×</div>
+    <div id="sidebarContent"></div>
+  </div>
+
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
   <script src="mapa.js"></script>
 </body>
 </html>

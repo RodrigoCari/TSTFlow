@@ -1,0 +1,676 @@
+id,uuid,image_url,latitude,longitude,place_county_name,place_state_name
+162016,769def03-dce1-40a4-b850-8ba6203a1c4e,https://static.inaturalist.org/photos/218690/medium.JPG,-22.8962599913,-68.2000350952,El Loa,Antofagasta
+281749,1f43f436-1d47-4f98-9927-0ac89370418f,https://inaturalist-open-data.s3.amazonaws.com/photos/348797/medium.JPG,-18.243577,-69.33815,Parinacota,Arica y Parinacota
+1558723,df9dcb66-1e26-40f5-be81-4e15e790ab82,https://inaturalist-open-data.s3.amazonaws.com/photos/1929648/medium.JPG,-18.3,-69.16667,Parinacota,Arica y Parinacota
+2670451,bb933b0d-a32b-4108-bad3-ce3424fbdc31,https://inaturalist-open-data.s3.amazonaws.com/photos/3000716/medium.JPG,-20.624713,-66.998801,Nor Lípez,Potosí
+2693742,bd800a97-1837-4417-9ae0-f35678da86e9,https://inaturalist-open-data.s3.amazonaws.com/photos/3031464/medium.jpg,-18.220873,-69.24365,Parinacota,Arica y Parinacota
+7909010,1b31ae55-844c-4c5d-b5fd-73cba225aaa6,https://inaturalist-open-data.s3.amazonaws.com/photos/10435709/medium.jpg,-18.9190366667,-69.0816945,Parinacota,Arica y Parinacota
+7909080,9573ce89-e503-4057-ba59-24f5c83cc698,https://inaturalist-open-data.s3.amazonaws.com/photos/10435812/medium.jpg,-21.5697661251,-67.7169931063,Nor Lípez,Potosí
+8082942,348e79b3-9994-44ed-a438-3544208c6fa7,https://inaturalist-open-data.s3.amazonaws.com/photos/10717462/medium.jpeg,-22.3392646283,-68.019214799,El Loa,Antofagasta
+8723992,d7a9c7e1-3299-48b9-a749-2e54ad09b9d2,https://inaturalist-open-data.s3.amazonaws.com/photos/11702655/medium.jpg,-18.166405,-69.434517,Parinacota,Arica y Parinacota
+12710989,e68d6e83-f749-428f-8cfc-e1cf6634b8b7,https://inaturalist-open-data.s3.amazonaws.com/photos/18405714/medium.jpg,-15.58757,-72.73636,Condesuyos,Arequipa
+12710994,b4cf12cf-e97e-401f-85ca-89a648bf1436,https://inaturalist-open-data.s3.amazonaws.com/photos/18405724/medium.jpg,-15.58757,-72.73636,Condesuyos,Arequipa
+12711018,06854b6d-a63f-4dff-badc-fd396698f0c8,https://inaturalist-open-data.s3.amazonaws.com/photos/18405747/medium.jpg,-15.58757,-72.73636,Condesuyos,Arequipa
+13300478,f06c62d8-33c1-4023-a846-cccfc68a66ca,https://static.inaturalist.org/photos/19476822/medium.jpeg,-11.1083416667,-76.1169716667,Junín,Junín
+15319486,1fa059ef-44d1-4ec6-aae2-4a463d23d6d9,https://inaturalist-open-data.s3.amazonaws.com/photos/22938795/medium.jpg,-21.358714,-68.026142,Nor Lípez,Potosí
+15842315,e7f5a05a-d840-4ec6-84b2-7df4aa3d6427,https://inaturalist-open-data.s3.amazonaws.com/photos/23686052/medium.jpg,-21.35852,-68.0278945,Nor Lípez,Potosí
+17263800,dfef69e6-3def-4361-85f3-0ab2cd021dc1,https://static.inaturalist.org/photos/26187314/medium.jpeg,-18.1104793415,-68.9182342037,Sajama,Oruro
+17832132,267db04c-f69a-4afd-8b2e-f034dc58abf7,https://static.inaturalist.org/photos/27217417/medium.jpeg,-18.1113018568,-68.9170969471,Sajama,Oruro
+19293514,52776151-de1e-4516-9f8e-855d84954b65,https://inaturalist-open-data.s3.amazonaws.com/photos/29655487/medium.jpeg,-18.1599705227,-69.4381821156,Parinacota,Arica y Parinacota
+20044570,075fbeb2-2a52-4d8a-b806-c2b9d3909b57,https://static.inaturalist.org/photos/30946774/medium.jpg,-21.3585583333,-68.0278638333,Nor Lípez,Potosí
+20148312,b9bf2c46-8708-47b0-8496-4656c9252901,https://inaturalist-open-data.s3.amazonaws.com/photos/31077401/medium.jpg,-14.48201,-70.98919,Canas,Cusco
+20469993,4e5bf2a5-db6d-4297-b078-cfee8b6f2a5f,https://inaturalist-open-data.s3.amazonaws.com/photos/31598484/medium.jpg,-21.9258416667,-68.0053472167,Nor Lípez,Potosí
+21724931,b2f254d6-dd7a-489d-9eed-8d72fac5f99c,https://static.inaturalist.org/photos/33642497/medium.jpg,-18.1833,-69.4167,Parinacota,Arica y Parinacota
+22134260,9c3af8e7-25d4-4677-b781-ddfaabb1b034,https://inaturalist-open-data.s3.amazonaws.com/photos/34267311/medium.jpg,-19.3362236509,-66.9150014688,Eduardo Avaroa,Oruro
+22989495,176ece71-59e0-43d2-b065-ed16e1cdc30d,https://static.inaturalist.org/photos/35639775/medium.jpg,-18.0701471667,-69.0724195,Parinacota,Arica y Parinacota
+23840949,3e925305-261c-40da-a0bf-77e092a551ed,https://inaturalist-open-data.s3.amazonaws.com/photos/36891922/medium.jpeg,-16.1776912084,-71.5324008465,Arequipa,Arequipa
+24280467,2e9cae5d-f762-4cdd-b574-7339964708dc,https://inaturalist-open-data.s3.amazonaws.com/photos/37544012/medium.jpeg,-21.6245544356,-68.0628225034,Nor Lípez,Potosí
+26577773,63884794-cf27-4557-877d-7bc24f89f62a,https://static.inaturalist.org/photos/41278895/medium.jpg,-21.7504210666,-67.5961923834,Nor Lípez,Potosí
+27419251,1e8d3d85-02bc-4e15-94ad-c47be01eed48,https://inaturalist-open-data.s3.amazonaws.com/photos/42661325/medium.jpg,-22.5326733333,-68.0447666667,El Loa,Antofagasta
+28577635,c129d7b4-c924-4e46-8024-be95edf0c609,https://static.inaturalist.org/photos/44557956/medium.jpeg,-21.3585326029,-68.027903745,Nor Lípez,Potosí
+29370857,2ac92645-8e58-4352-b8e9-ed4b19b9c803,https://inaturalist-open-data.s3.amazonaws.com/photos/45836380/medium.jpeg,-18.1642360386,-69.1453364119,Parinacota,Arica y Parinacota
+31302651,47783d6f-c0a1-4548-ad50-ce40867814f6,https://inaturalist-open-data.s3.amazonaws.com/photos/48980019/medium.jpg,-19.6056241535,-69.0437496764,Iquique,Tarapacá
+31302780,564bb0f5-2d37-4e48-8e96-a3cc106a0b11,https://inaturalist-open-data.s3.amazonaws.com/photos/48980208/medium.jpg,-19.6094984164,-69.0205226633,Iquique,Tarapacá
+32097533,5d9edd95-7b30-462b-aae6-a8804acccab6,https://static.inaturalist.org/photos/50310127/medium.jpeg,-21.3406627663,-66.4180686325,Nor Lípez,Potosí
+32515695,9acf7770-bbec-45b6-b722-8be5193b140e,https://inaturalist-open-data.s3.amazonaws.com/photos/51007131/medium.jpg,-18.170561,-69.429965,Parinacota,Arica y Parinacota
+34212239,3b5f0042-8df4-4168-bf6d-526771b52422,https://inaturalist-open-data.s3.amazonaws.com/photos/53815772/medium.jpg,-21.2581659416,-68.1317417782,Nor Lípez,Potosí
+34787227,acf2a45f-ed34-4570-a434-f9e21e88b14a,https://inaturalist-open-data.s3.amazonaws.com/photos/54791395/medium.jpeg,-12.590672884,-75.042892245,Huancavelica,Huancavelica
+34942052,0695308a-65fb-4f89-9a2e-da9b08b1bb41,https://static.inaturalist.org/photos/55058081/medium.jpg,-21.725725,-67.52623,Nor Lípez,Potosí
+35087106,6dc91e01-2148-473c-93a5-b1a28c872237,https://static.inaturalist.org/photos/55305558/medium.jpeg,-22.6215671,-67.6679757,Sud Lípez,Potosí
+35290379,a6040417-dff2-4259-899b-ebe4459f196e,https://inaturalist-open-data.s3.amazonaws.com/photos/55632708/medium.jpeg,-12.5933586383,-75.0495875416,Huancavelica,Huancavelica
+35389170,137e2f6e-bd38-44b6-8392-8e290799c6e6,https://static.inaturalist.org/photos/55799257/medium.jpg,-21.0169774135,-68.8227147546,Iquique,Tarapacá
+35420649,be421166-5944-4a94-bbd1-d599e29fef43,https://inaturalist-open-data.s3.amazonaws.com/photos/55851086/medium.jpg,-18.2246616667,-69.3104316667,Parinacota,Arica y Parinacota
+35422240,b917f1ac-cfae-4e42-b15f-11890e5e5d87,https://inaturalist-open-data.s3.amazonaws.com/photos/55853860/medium.jpg,-18.2446916667,-69.180655,Parinacota,Arica y Parinacota
+36069063,0ac8a9ea-0d81-4976-b318-ff3fc4ac3041,https://inaturalist-open-data.s3.amazonaws.com/photos/56968555/medium.jpg,-21.3587483333,-68.0272666667,Nor Lípez,Potosí
+36163862,0e76f43e-a7b2-4f47-8fb0-e56b971b4ad1,https://inaturalist-open-data.s3.amazonaws.com/photos/57133130/medium.jpeg,-21.0923583805,-68.6427213246,Iquique,Tarapacá
+36288793,b045622b-1c31-41be-8c72-1ba999a5314b,https://inaturalist-open-data.s3.amazonaws.com/photos/57346550/medium.jpeg,-18.1956710815,-69.4414672852,Parinacota,Arica y Parinacota
+36367292,d5495be9-0938-4cda-9e08-d405fde75cd8,https://inaturalist-open-data.s3.amazonaws.com/photos/57479998/medium.jpg,-18.19629667,-69.44118667,Parinacota,Arica y Parinacota
+36367437,e113120f-3c32-468b-ab29-26f23d8e5ddf,https://inaturalist-open-data.s3.amazonaws.com/photos/57480153/medium.jpg,-18.221395,-69.21293667,Parinacota,Arica y Parinacota
+36367550,31158d38-dda6-4ce4-aebd-032855b53f41,https://inaturalist-open-data.s3.amazonaws.com/photos/57480223/medium.jpg,-18.216695,-69.30185833,Parinacota,Arica y Parinacota
+36368536,9cbabc19-fe0e-4feb-bb07-d1f389a3d484,https://inaturalist-open-data.s3.amazonaws.com/photos/57482167/medium.jpg,-19.38568667,-68.94142167,Iquique,Tarapacá
+36368959,bc5f89d8-be39-4952-86d1-30ea1f1d9046,https://inaturalist-open-data.s3.amazonaws.com/photos/57482640/medium.jpg,-19.24705,-69.09877783,Iquique,Tarapacá
+36840955,4f845ad8-824f-4658-930e-2207a96662c8,https://inaturalist-open-data.s3.amazonaws.com/photos/58303141/medium.jpg,-18.9100166667,-69.0843666667,Parinacota,Arica y Parinacota
+37064910,bfbb2404-9de2-46b0-8458-7b8836ae2394,https://static.inaturalist.org/photos/58696910/medium.jpeg,-18.8953949259,-69.0775883917,Parinacota,Arica y Parinacota
+37202315,6b44b023-2a86-4c21-a1ae-86277ff5b5e0,https://inaturalist-open-data.s3.amazonaws.com/photos/58937601/medium.jpg,-22.5978365899,-66.0947281146,Rinconada,Jujuy
+37356647,3b1b3903-6435-4463-ac81-d5b6884d6980,https://inaturalist-open-data.s3.amazonaws.com/photos/59206061/medium.jpg,-18.1704317057,-69.4301147711,Parinacota,Arica y Parinacota
+37690071,45c7a713-c2d9-40c1-b399-79fe94aa67b1,https://static.inaturalist.org/photos/59802094/medium.jpg,-20.9221385168,-68.660904284,Iquique,Tarapacá
+38187958,c17993c1-6559-4ef5-8b02-e6ecba567f17,https://static.inaturalist.org/photos/60656463/medium.jpg,-18.1989185885,-69.5574882534,Parinacota,Arica y Parinacota
+38382776,1b013eb6-a29b-4e80-940d-94a8a400f611,https://inaturalist-open-data.s3.amazonaws.com/photos/60994980/medium.jpeg,-16.0802574165,-71.4284706116,Arequipa,Arequipa
+38872268,5ce0c4e2-ed5e-4efe-92fe-d37b39d8fdc9,https://inaturalist-open-data.s3.amazonaws.com/photos/61815919/medium.jpg,-15.713645,-71.59232167,Caylloma,Arequipa
+39466660,3dfff2fd-b298-44ba-a67e-3168c58bcc96,https://inaturalist-open-data.s3.amazonaws.com/photos/62616221/medium.jpg,-22.3994032151,-66.125812874,Rinconada,Jujuy
+39550510,96d11fb7-4563-4abb-847e-ae65fbd8e405,https://inaturalist-open-data.s3.amazonaws.com/photos/62757782/medium.jpeg,-21.8923489291,-67.5742532054,Nor Lípez,Potosí
+40367739,09493805-9987-41da-bf62-8e11ac00cf71,https://inaturalist-open-data.s3.amazonaws.com/photos/64119269/medium.jpeg,-19.8323587228,-67.6299477078,Ladislao Cabrera,Oruro
+40390432,06857332-60ea-4f84-9538-5d07c92c58b8,https://inaturalist-open-data.s3.amazonaws.com/photos/64133740/medium.jpeg,-18.2236521877,-69.2728536415,Parinacota,Arica y Parinacota
+40390815,d2c74ede-8b9e-430a-8ac8-dbb2d3340832,https://inaturalist-open-data.s3.amazonaws.com/photos/64134342/medium.jpeg,-19.324432,-68.310974,Atahuallpa,Oruro
+40402716,a2fc5827-2a7a-4f1e-a1ed-a31993088a20,https://inaturalist-open-data.s3.amazonaws.com/photos/64153295/medium.jpg,-18.1633027257,-69.0510898274,Sajama,Oruro
+40404367,a0bc3487-beef-44bf-bf14-7efa92eba23d,https://inaturalist-open-data.s3.amazonaws.com/photos/64156030/medium.jpeg,-21.4991380556,-67.8971180556,Nor Lípez,Potosí
+40760043,201f0df2-96ed-46f9-954b-f435674dfd11,https://inaturalist-open-data.s3.amazonaws.com/photos/64708809/medium.jpg,-21.3600216667,-68.0263666667,Nor Lípez,Potosí
+40909644,424ae489-6fd2-4f0f-9e8f-0bc9f7111458,https://static.inaturalist.org/photos/64857613/medium.jpeg,-16.1716616667,-71.5210666667,Arequipa,Arequipa
+40916650,5c0abd22-626e-4618-8169-ced4007f00ba,https://static.inaturalist.org/photos/64869390/medium.jpg,-21.0667861974,-67.6154932282,Nor Lípez,Potosí
+40967068,4e4c428e-a405-4708-b8d8-a121c72ea2c0,https://inaturalist-open-data.s3.amazonaws.com/photos/64956994/medium.jpg,-22.42053333,-68.04335833,El Loa,Antofagasta
+40980861,9da2d3fc-9f54-4bd1-af0f-fdb055f55394,https://inaturalist-open-data.s3.amazonaws.com/photos/64980136/medium.jpeg,-24.0634980556,-66.5302180556,Susques,Jujuy
+40980871,2204bd26-2a52-4d6e-a339-65224030ba52,https://inaturalist-open-data.s3.amazonaws.com/photos/64980264/medium.jpeg,-24.0634863889,-66.5301997222,Susques,Jujuy
+41002947,12c173a8-6519-4a8a-bca5-85d8d901dabe,https://inaturalist-open-data.s3.amazonaws.com/photos/65016274/medium.jpeg,-18.0690132285,-68.8853821429,Sajama,Oruro
+41162954,89ee9b03-4e87-4fb7-9e25-3c0a8062cb8e,https://inaturalist-open-data.s3.amazonaws.com/photos/65274272/medium.jpeg,-16.1867969848,-70.5667124493,General Sánchez Cerro,Moquegua
+41162957,f08028a9-6268-4de2-a538-f09944766704,https://inaturalist-open-data.s3.amazonaws.com/photos/65274279/medium.jpeg,-16.1537121706,-70.9214474988,Arequipa,Arequipa
+41569001,94900509-3d29-4fa4-8c4f-25c23552d7e6,https://inaturalist-open-data.s3.amazonaws.com/photos/65952659/medium.jpg,-21.535146,-67.579332,Nor Lípez,Potosí
+41961252,48d6d3be-750f-4fb2-a3bb-9355c7fe4a2f,https://inaturalist-open-data.s3.amazonaws.com/photos/66585059/medium.jpeg,-18.2050586895,-69.2644069461,Parinacota,Arica y Parinacota
+41961314,40350cbc-098d-4335-93f1-4d641db87d45,https://inaturalist-open-data.s3.amazonaws.com/photos/66585396/medium.jpeg,-17.826339269,-69.3184552926,Parinacota,Arica y Parinacota
+41966651,e666e70a-5f02-43ee-b7a4-f663a8fa19e0,https://inaturalist-open-data.s3.amazonaws.com/photos/66593622/medium.jpeg,-21.2994542378,-68.2801756679,El Loa,Antofagasta
+42023794,0b50b1c0-c29e-4e70-9413-5e41e78da81a,https://inaturalist-open-data.s3.amazonaws.com/photos/66694840/medium.jpeg,-25.1016516211,-65.9570602329,Cachi,Salta
+42452129,4ee20ed5-c764-4f1f-b2f0-20312efecaa6,https://inaturalist-open-data.s3.amazonaws.com/photos/67400706/medium.jpg,-21.4359659711,-67.8571591829,Nor Lípez,Potosí
+42539333,4fabf079-9a30-429a-a3a2-6d32cf00a4a7,https://inaturalist-open-data.s3.amazonaws.com/photos/67544485/medium.jpg,-18.102031945,-69.53572865,Parinacota,Arica y Parinacota
+42887735,7c469880-88d0-49b5-949e-71e39c7b3116,https://static.inaturalist.org/photos/68102966/medium.jpeg,-20.1300264672,-67.4891343713,Nor Lípez,Potosí
+44224669,2abca62a-07bf-496c-a2f2-35ccc702af01,https://inaturalist-open-data.s3.amazonaws.com/photos/70118303/medium.jpg,-18.1349308133,-69.5424784267,Parinacota,Arica y Parinacota
+45151557,a8e95943-2719-4dd7-a2ac-191340e948d5,https://inaturalist-open-data.s3.amazonaws.com/photos/71587095/medium.jpeg,-22.0519254,-67.8832848,Sud Lípez,Potosí
+46025731,4bf40659-86a0-4b2f-9951-70fad7b436dc,https://inaturalist-open-data.s3.amazonaws.com/photos/72996573/medium.jpeg,-20.1337772,-67.4891345,Nor Lípez,Potosí
+46882587,16c6d14a-df25-4190-99fb-724ee95c9abd,https://static.inaturalist.org/photos/74348742/medium.jpeg,-18.1969907,-69.5597273,Parinacota,Arica y Parinacota
+49294552,728beac4-16db-41aa-9ccb-80ea23e58c5d,https://inaturalist-open-data.s3.amazonaws.com/photos/78250975/medium.jpeg,-22.2082718997,-67.7735206112,Sud Lípez,Potosí
+49456404,6e3eab05-ff0b-4173-8348-f2fad80da8fc,https://inaturalist-open-data.s3.amazonaws.com/photos/78622943/medium.jpeg,-22.9182141443,-65.5875702202,Humahuaca,Jujuy
+50573587,85faf117-9564-4ab5-87aa-711f078c6884,https://inaturalist-open-data.s3.amazonaws.com/photos/80305712/medium.jpg,-21.0725361111,-68.6442722222,Iquique,Tarapacá
+52494727,ced23e02-e148-4853-9fd7-b5ec012e36a9,https://inaturalist-open-data.s3.amazonaws.com/photos/83451793/medium.jpeg,-21.3604533333,-68.0274016667,Nor Lípez,Potosí
+54683459,177b3d51-4611-4b1a-aec3-b8dc46b35a0d,https://inaturalist-open-data.s3.amazonaws.com/photos/87025025/medium.jpg,-18.8286109,-69.0612582,Parinacota,Arica y Parinacota
+54683468,8e924136-e83e-44d8-b935-893f250b7c3a,https://inaturalist-open-data.s3.amazonaws.com/photos/87025037/medium.jpg,-18.8286109,-69.0612582,Parinacota,Arica y Parinacota
+54683470,51552183-e5b2-4d78-b4de-c5e7b01ef33d,https://inaturalist-open-data.s3.amazonaws.com/photos/87025034/medium.jpg,-18.8286109,-69.0612582,Parinacota,Arica y Parinacota
+56453013,86770807-dbfc-4fa1-92ae-2d6ca7cb5f95,https://static.inaturalist.org/photos/89959192/medium.jpg,-22.43694,-68.04907,El Loa,Antofagasta
+56686900,ce8715d3-37db-457d-aaf6-93553f336fe9,https://inaturalist-open-data.s3.amazonaws.com/photos/90351020/medium.jpeg,-22.2062558796,-67.7636499211,Sud Lípez,Potosí
+59806382,faea31f1-0b88-4573-a775-c15f9bbab312,https://inaturalist-open-data.s3.amazonaws.com/photos/95584037/medium.jpg,-18.2306557017,-69.3141174316,Parinacota,Arica y Parinacota
+60782864,28f45504-4f93-493c-926d-389c7339f8c4,https://inaturalist-open-data.s3.amazonaws.com/photos/97213615/medium.jpg,-14.8310892457,-71.1549148312,Espinar,Cusco
+60883963,0708390e-c2ad-45bd-9798-963834a3b609,https://inaturalist-open-data.s3.amazonaws.com/photos/97377982/medium.jpg,-28.1713433333,-66.0063983333,Ambato,Catamarca
+61162082,383b9a89-641d-4d0c-945c-9edc4cf18de8,https://inaturalist-open-data.s3.amazonaws.com/photos/97832147/medium.jpeg,-15.0352757105,-72.8369710344,La Unión,Arequipa
+62595889,be31ddf2-7fee-4016-a997-eb29f5d0281b,https://inaturalist-open-data.s3.amazonaws.com/photos/100317382/medium.jpeg,-17.6368234569,-69.7885056585,Tacna,Tacna
+63323254,0ae75d8b-f586-49c1-bdd2-731e6360b55e,https://inaturalist-open-data.s3.amazonaws.com/photos/101606434/medium.jpeg,-21.8809263889,-67.5392313889,Nor Lípez,Potosí
+63328515,ee5e7774-e3ab-4383-bbef-fa12540b10ea,https://inaturalist-open-data.s3.amazonaws.com/photos/101615236/medium.jpeg,-21.4363880556,-67.8577380556,Nor Lípez,Potosí
+63507571,2f349e6b-09d7-4d6e-9fca-d416099d0935,https://inaturalist-open-data.s3.amazonaws.com/photos/101931245/medium.jpg,-21.3586966667,-68.0263445,Nor Lípez,Potosí
+63828376,fff90f38-640d-4703-9cab-51a8d317e4e9,https://inaturalist-open-data.s3.amazonaws.com/photos/102507281/medium.jpg,-20.517,-64.902,Nor Cinti,Chuquisaca
+63879651,11558b8f-853f-46cb-97b9-7ce5fd5c6c26,https://inaturalist-open-data.s3.amazonaws.com/photos/102598166/medium.jpg,-20.934,-64.883,Sud Cinti,Chuquisaca
+63879653,2043339d-2385-4f15-a5a8-29854be80b05,https://inaturalist-open-data.s3.amazonaws.com/photos/102598172/medium.jpg,-21.418,-65.385,Sud Cinti,Chuquisaca
+63879654,c1291534-2d9d-4454-aed6-2db98360db8c,https://inaturalist-open-data.s3.amazonaws.com/photos/102598180/medium.jpg,-20.632,-65.032,Nor Cinti,Chuquisaca
+64008237,55fa6c23-83aa-4afa-823b-ca62784b901f,https://static.inaturalist.org/photos/102828217/medium.jpeg,-14.7405817624,-74.4096124917,Lucanas,Ayacucho
+64114856,bf1c19a4-7449-4b15-a1f9-07e08b85a19e,https://inaturalist-open-data.s3.amazonaws.com/photos/103024324/medium.jpeg,-20.8944749271,-67.4660611001,Nor Lípez,Potosí
+64375773,86b40c1b-62e9-4a91-8564-aded2b92d3cd,https://inaturalist-open-data.s3.amazonaws.com/photos/103481818/medium.jpeg,-18.1210949299,-68.962006773,Sajama,Oruro
+64458872,fd6456c0-92b1-42e5-b7fb-5a2fe42c9417,https://inaturalist-open-data.s3.amazonaws.com/photos/103584874/medium.jpeg,-18.0805674596,-68.8795133734,Sajama,Oruro
+64458884,80c5fd9f-c8ef-4073-bbd7-74c09b3433eb,https://inaturalist-open-data.s3.amazonaws.com/photos/103585347/medium.jpeg,-18.0558904916,-68.9365119623,Sajama,Oruro
+64527665,7d571d71-d882-4c43-99c0-f34925e3fd8c,https://inaturalist-open-data.s3.amazonaws.com/photos/103755524/medium.jpeg,-18.1181342247,-69.0538416613,Sajama,Oruro
+65403865,de61ce55-b882-46f4-8677-6b3c42eb1e16,https://inaturalist-open-data.s3.amazonaws.com/photos/105263297/medium.jpg,-14.82908,-71.36502833,Espinar,Cusco
+65955408,2b89b4e6-18d4-432d-afe8-af07999f5213,https://inaturalist-open-data.s3.amazonaws.com/photos/106243396/medium.jpeg,-21.3585647222,-68.0279030556,Nor Lípez,Potosí
+65955409,170605e8-5616-4dc0-9586-e37e2451ccff,https://inaturalist-open-data.s3.amazonaws.com/photos/106243408/medium.jpeg,-21.3584897222,-68.0278713889,Nor Lípez,Potosí
+65955413,3a913597-6833-478f-b331-fc3a139bea4d,https://inaturalist-open-data.s3.amazonaws.com/photos/106243419/medium.jpeg,-21.358885,-68.0266480556,Nor Lípez,Potosí
+67090559,c3dfeb95-4f5b-467b-adfd-b76e7bb1735b,https://static.inaturalist.org/photos/108307680/medium.jpeg,-18.1034277778,-69.53105,Parinacota,Arica y Parinacota
+67207637,7bd6e11a-03fc-4a3b-9234-fbb5fa98ab0f,https://static.inaturalist.org/photos/108527598/medium.jpeg,-18.2141916667,-69.4982194444,Parinacota,Arica y Parinacota
+67207708,59b3b852-3b1c-4fd3-9ee5-1758a712da83,https://static.inaturalist.org/photos/108527735/medium.jpeg,-18.2196777778,-69.489375,Parinacota,Arica y Parinacota
+67207734,9dc486c8-d7e2-498f-a689-16c0927e52d3,https://static.inaturalist.org/photos/108527797/medium.jpeg,-18.2196777778,-69.489375,Parinacota,Arica y Parinacota
+67207805,b4d4fe2f-9352-4d10-8154-4f847dd94daf,https://static.inaturalist.org/photos/108527931/medium.jpeg,-18.2196777778,-69.489375,Parinacota,Arica y Parinacota
+67207933,220679bd-c93e-4ae7-ab75-2ffc53b002d4,https://static.inaturalist.org/photos/108528206/medium.jpeg,-18.2219138889,-69.4879416667,Parinacota,Arica y Parinacota
+67209192,930b980c-8cb9-4f56-a32b-9f9048d8f40c,https://static.inaturalist.org/photos/108530704/medium.jpeg,-18.0961805556,-69.5418972222,Parinacota,Arica y Parinacota
+67214435,137f198b-5b07-44fe-b30b-0e08747bc0e9,https://static.inaturalist.org/photos/108539697/medium.jpeg,-18.1034277778,-69.53105,Parinacota,Arica y Parinacota
+69551741,26d4b556-6324-4099-9017-97a6006bcf33,https://inaturalist-open-data.s3.amazonaws.com/photos/112877169/medium.jpg,-15.7559979528,-71.5630504322,Caylloma,Arequipa
+70004577,4b6bd45e-3da4-4e31-a5b0-c4fcd80e781f,https://inaturalist-open-data.s3.amazonaws.com/photos/113720573/medium.jpeg,-21.5350888889,-67.5788111111,Nor Lípez,Potosí
+70252498,f479cf7c-f55c-4fa6-a005-bbcdf790efdd,https://inaturalist-open-data.s3.amazonaws.com/photos/114167491/medium.jpg,-19.6034661823,-65.7252214505,Tomás Frías,Potosí
+70494878,d60aeaaa-d498-41f4-99ae-1799ba61c8ba,https://inaturalist-open-data.s3.amazonaws.com/photos/114615267/medium.jpg,-23.8634189,-69.1328491,Antofagasta,Antofagasta
+71901422,bb973f4e-e76f-4643-b011-f8e118a2b36d,https://inaturalist-open-data.s3.amazonaws.com/photos/117136887/medium.jpg,-26.6685927818,-65.7579413992,Tafí del Valle,Tucumán
+73289378,ecc22286-e2db-4750-a648-c180e789bfb6,https://inaturalist-open-data.s3.amazonaws.com/photos/119631373/medium.jpg,-22.4920077778,-68.0236414167,El Loa,Antofagasta
+73922464,4b85bfe7-b903-468c-b541-65004b74165d,https://inaturalist-open-data.s3.amazonaws.com/photos/120755781/medium.jpeg,-16.3363874162,-71.3123453733,Arequipa,Arequipa
+74594620,f58adf61-25fd-4986-a34c-01af733902ad,https://inaturalist-open-data.s3.amazonaws.com/photos/121929018/medium.jpeg,-15.7813768174,-71.5529306677,Caylloma,Arequipa
+74672461,a5bc5f9d-7901-4363-9420-6e9460587e37,https://inaturalist-open-data.s3.amazonaws.com/photos/122064512/medium.jpeg,-26.739954896,-65.7435914256,Tafí del Valle,Tucumán
+74801357,696760f6-31b6-4d98-b547-c7c3b67b799b,https://inaturalist-open-data.s3.amazonaws.com/photos/122295079/medium.jpeg,-26.728218658,-65.7556237587,Tafí del Valle,Tucumán
+74866407,f9675d9b-bdee-4699-a499-212d25b5bbd0,https://inaturalist-open-data.s3.amazonaws.com/photos/122413064/medium.jpeg,-26.7362320612,-65.762853414,Tafí del Valle,Tucumán
+75023006,2e994191-61a0-4024-80ec-538258c7e079,https://inaturalist-open-data.s3.amazonaws.com/photos/122687251/medium.jpeg,-22.3391169506,-68.0281158092,El Loa,Antofagasta
+75108792,6884e60b-a9f9-4ae5-907d-4e88ce709f6a,https://inaturalist-open-data.s3.amazonaws.com/photos/122820684/medium.jpeg,-18.7016166667,-69.473,Arica,Arica y Parinacota
+75123074,c3c74700-2832-4801-86fd-3979d4c9f5e3,https://inaturalist-open-data.s3.amazonaws.com/photos/122853923/medium.jpeg,-18.2817968655,-69.0994904936,Parinacota,Arica y Parinacota
+75262549,3a79cf6f-dcd9-4a20-ad32-4f65bf393c9d,https://inaturalist-open-data.s3.amazonaws.com/photos/123101937/medium.jpeg,-18.1701861111,-69.4306722222,Parinacota,Arica y Parinacota
+76838973,cde5036b-9589-49e3-9533-4f10c8f1e12f,https://inaturalist-open-data.s3.amazonaws.com/photos/125671674/medium.jpg,-16.306938479,-71.0133559433,Arequipa,Arequipa
+77124235,f7dfc41f-e882-47a2-9d6c-f96a2cd6b30c,https://static.inaturalist.org/photos/126117510/medium.jpeg,-16.3858954344,-71.3171871311,Arequipa,Arequipa
+77150346,533f98a4-6f02-42d4-a113-fe6d41f58968,https://inaturalist-open-data.s3.amazonaws.com/photos/126161762/medium.jpeg,-16.3842029569,-71.3137893675,Arequipa,Arequipa
+77168911,175994ff-62ab-4695-98c7-22fa7b304c3f,https://inaturalist-open-data.s3.amazonaws.com/photos/126184746/medium.jpeg,-16.7675,-70.599722,Mariscal Nieto,Moquegua
+77190972,2b997064-9f67-4ad3-ac6c-2a2ee12548f7,https://inaturalist-open-data.s3.amazonaws.com/photos/126228553/medium.jpg,-16.3974020903,-71.1635122009,Arequipa,Arequipa
+77362111,11026242-f923-4e71-a40c-f2d39a2b8d4d,https://static.inaturalist.org/photos/126512082/medium.jpeg,-16.3844069,-71.3134304,Arequipa,Arequipa
+78536414,66917e2b-f2f8-4800-ade8-cbaf19d9f2e2,https://inaturalist-open-data.s3.amazonaws.com/photos/128543218/medium.jpeg,-21.0287418364,-68.7410202025,Iquique,Tarapacá
+80268983,7fca61f0-056e-4281-a0f5-fd742c1c7873,https://inaturalist-open-data.s3.amazonaws.com/photos/131546822/medium.jpeg,-22.1260528293,-67.7145646692,Sud Lípez,Potosí
+80438103,101a8670-2289-4764-a291-4949998056fd,https://inaturalist-open-data.s3.amazonaws.com/photos/131831466/medium.jpeg,-15.1927861111,-71.8480611111,Caylloma,Arequipa
+80507688,eff3103f-8967-4af6-980c-dd27f446b891,https://static.inaturalist.org/photos/131959068/medium.jpeg,-15.7136967997,-71.5922874997,Caylloma,Arequipa
+81144213,b2b2b220-1bb4-46da-8683-505b3ecd4efb,https://inaturalist-open-data.s3.amazonaws.com/photos/133064583/medium.jpeg,-15.2510562688,-71.8511360191,Caylloma,Arequipa
+83255705,cde76be3-1b4f-4de8-88a2-675ad9c34bad,https://inaturalist-open-data.s3.amazonaws.com/photos/136721089/medium.jpg,-18.592755,-66.925725,Poopó,Oruro
+84390511,b282737f-8533-4ed6-86a4-afbc2b70e818,https://inaturalist-open-data.s3.amazonaws.com/photos/138697066/medium.jpeg,-22.9087073,-68.1997156,El Loa,Antofagasta
+85230857,d2eb1a1b-1955-462f-96b4-3c5a18da6b65,https://static.inaturalist.org/photos/140199439/medium.jpeg,-21.0258186143,-68.7367894594,Iquique,Tarapacá
+85569260,18c08dc3-4a54-4ffe-85bc-5d1ccebcc9fb,https://static.inaturalist.org/photos/140805207/medium.jpeg,-24.4764759191,-66.1986513553,La Poma,Salta
+85911164,fbf5f955-fae5-49da-928f-066a909a2907,https://inaturalist-open-data.s3.amazonaws.com/photos/141436295/medium.jpg,-18.215995,-69.2258833333,Parinacota,Arica y Parinacota
+87238918,735878bf-7c46-49ee-a5e1-df59b051fb4d,https://inaturalist-open-data.s3.amazonaws.com/photos/143798461/medium.jpeg,-25.232273973,-65.9481811523,Cachi,Salta
+87429771,63c46295-8a11-4ef4-b8b0-5c26b7999904,https://inaturalist-open-data.s3.amazonaws.com/photos/144145428/medium.jpeg,-19.8018611,-69.3632472167,Iquique,Tarapacá
+91233429,d068cf34-7be8-4882-a49c-d37794d6c1f4,https://inaturalist-open-data.s3.amazonaws.com/photos/150876367/medium.jpeg,-18.2161520282,-69.300320695,Parinacota,Arica y Parinacota
+91468413,1ac9c772-83b4-4b3a-a23d-e84015afff2e,https://inaturalist-open-data.s3.amazonaws.com/photos/151302462/medium.jpeg,-15.7651448658,-71.5583793073,Caylloma,Arequipa
+95977636,37bb59af-6040-4c4d-bdbc-0c9f36577096,https://inaturalist-open-data.s3.amazonaws.com/photos/159394557/medium.jpg,-20.719985,-67.768608,Nor Lípez,Potosí
+98912656,220db5f6-fdc2-4477-b179-fce0b4210e06,https://inaturalist-open-data.s3.amazonaws.com/photos/164787061/medium.jpg,-18.058135,-68.9434816667,Sajama,Oruro
+98949118,3a70f2a5-9900-4f4b-bbbb-3d8bef14a2d4,https://static.inaturalist.org/photos/164856331/medium.jpg,-18.2314440618,-69.1871803786,Parinacota,Arica y Parinacota
+100173980,7e6a4f46-4a42-417b-bb21-728f9a439b00,https://inaturalist-open-data.s3.amazonaws.com/photos/167153817/medium.jpeg,-21.4719326311,-68.0023737344,Nor Lípez,Potosí
+100642167,753f4edd-b323-477e-bc79-dad3eb617f63,https://inaturalist-open-data.s3.amazonaws.com/photos/168002534/medium.jpeg,-15.8481333333,-71.4493944444,Caylloma,Arequipa
+100765768,4d4f902e-04bb-4a9c-a79a-3439f36fd232,https://static.inaturalist.org/photos/168265156/medium.jpeg,-21.0404336778,-68.7307842448,Iquique,Tarapacá
+100851767,86695738-6806-4a2e-bd15-b542e9c4f745,https://inaturalist-open-data.s3.amazonaws.com/photos/168365245/medium.jpg,-16.853,-70.581,Mariscal Nieto,Moquegua
+102423781,c72e2e94-79fb-420b-9daa-2c3582425323,https://inaturalist-open-data.s3.amazonaws.com/photos/171207853/medium.jpeg,-15.6093293,-72.0896229,Caylloma,Arequipa
+102423838,3d6739f5-4981-40c5-8d4c-305ff79365aa,https://inaturalist-open-data.s3.amazonaws.com/photos/171208218/medium.jpeg,-15.6388455,-71.6020438,Caylloma,Arequipa
+102719601,5f496307-cf1d-46bc-a8d1-d641e44a5213,https://inaturalist-open-data.s3.amazonaws.com/photos/171770512/medium.jpeg,-19.8395832269,-67.6143102364,Ladislao Cabrera,Oruro
+102719691,fe041590-e8af-460e-a31b-02ef8dc45b97,https://inaturalist-open-data.s3.amazonaws.com/photos/171770641/medium.jpeg,-22.0791743012,-67.8479009969,Sud Lípez,Potosí
+102719768,f4b260d9-ecc4-4633-9095-fbd626ac10f2,https://inaturalist-open-data.s3.amazonaws.com/photos/171770782/medium.jpeg,-18.9061642752,-69.0857716883,Parinacota,Arica y Parinacota
+102719866,156d762b-3e51-4b43-b135-5ad9f6d42a85,https://inaturalist-open-data.s3.amazonaws.com/photos/171770925/medium.jpeg,-18.2005835395,-69.267286616,Parinacota,Arica y Parinacota
+102719969,d61cb3cb-a705-4c48-852d-8c5a054c3538,https://inaturalist-open-data.s3.amazonaws.com/photos/171771112/medium.jpeg,-18.252627391,-69.1787600471,Parinacota,Arica y Parinacota
+103397232,1da7dc00-54db-4a46-94d5-8118011c385f,https://static.inaturalist.org/photos/173039196/medium.jpg,-18.2522554231,-69.1764215686,Parinacota,Arica y Parinacota
+103473212,41d3128e-63cd-489e-b837-fe988aaa07c8,https://inaturalist-open-data.s3.amazonaws.com/photos/173186419/medium.jpeg,-26.7271397534,-65.7366279211,Tafí del Valle,Tucumán
+103619018,bec909ac-3b76-47ba-b5f4-6b1bc50219f0,https://inaturalist-open-data.s3.amazonaws.com/photos/173467225/medium.jpg,-21.7707583081,-67.7543868911,Nor Lípez,Potosí
+103619130,8da35425-1ff2-4301-9b1b-9587978ebd25,https://inaturalist-open-data.s3.amazonaws.com/photos/173467550/medium.jpg,-22.1791631682,-67.7184746328,Sud Lípez,Potosí
+103777544,113bd306-cdde-450c-a19a-ba9c85f64242,https://inaturalist-open-data.s3.amazonaws.com/photos/173770796/medium.jpeg,-18.1964154,-69.5603489,Parinacota,Arica y Parinacota
+103885143,1a050ec9-f801-4c66-8929-9fad048aa624,https://inaturalist-open-data.s3.amazonaws.com/photos/173982669/medium.jpg,-21.8728939234,-66.8826783901,Sud Lípez,Potosí
+104255003,73c97c69-5ace-4c5d-ac50-a3463eb28113,https://inaturalist-open-data.s3.amazonaws.com/photos/174668214/medium.jpg,-22.0223595035,-67.9136003704,Sud Lípez,Potosí
+104255391,3e622fce-070d-49e4-838d-c211e30bce60,https://inaturalist-open-data.s3.amazonaws.com/photos/174668867/medium.jpg,-21.3586550326,-68.0263137817,Nor Lípez,Potosí
+104537867,e2377d7e-5d1f-4109-9016-c89b5dbfdd57,https://inaturalist-open-data.s3.amazonaws.com/photos/175184704/medium.jpg,-22.20706557,-68.3199154059,El Loa,Antofagasta
+104907565,d562bca0-9234-44f2-8659-415972b7f0b5,https://inaturalist-open-data.s3.amazonaws.com/photos/175885420/medium.jpeg,-18.210361417,-69.3489588717,Parinacota,Arica y Parinacota
+104972934,1aa5fd56-9fc7-40b1-8e7b-2b0197d5b683,https://inaturalist-open-data.s3.amazonaws.com/photos/176017966/medium.jpeg,-18.2173101858,-69.2292559421,Parinacota,Arica y Parinacota
+105032643,3b8c13ea-5ef8-49d5-a6ba-b7a136a2e8ce,https://inaturalist-open-data.s3.amazonaws.com/photos/176132345/medium.jpeg,-15.8449892412,-71.4427722204,Caylloma,Arequipa
+105271167,3e3da29e-8f43-4338-bb2c-5b2262973ec8,https://inaturalist-open-data.s3.amazonaws.com/photos/176591736/medium.jpg,-21.858,-66.145,Santa Catalina,Jujuy
+105388784,15c41c76-3370-4e3a-92b2-e5ac40ef3c8a,https://inaturalist-open-data.s3.amazonaws.com/photos/176813332/medium.jpeg,-16.2758175926,-71.5162759944,Arequipa,Arequipa
+105388787,4a89fcfe-4164-4532-b8d2-e0086d127b7d,https://inaturalist-open-data.s3.amazonaws.com/photos/176813455/medium.jpeg,-16.2758175926,-71.5162759944,Arequipa,Arequipa
+105554053,cab58da2-65da-4fbb-b29c-c44e4bb5cc82,https://inaturalist-open-data.s3.amazonaws.com/photos/177131019/medium.jpg,-15.7662056016,-70.9112936614,Lampa,Puno
+106123143,e7aa3ad5-a59b-4407-9a3f-ddcf28288e3f,https://inaturalist-open-data.s3.amazonaws.com/photos/178215558/medium.jpg,-21.8687580556,-66.14152298,Santa Catalina,Jujuy
+106314487,8d2678b5-71e5-462c-83ad-e8ab5794a8a8,https://inaturalist-open-data.s3.amazonaws.com/photos/178571166/medium.jpg,-22.20294789,-65.2112280849,Santa Victoria,Salta
+106566558,8e35f9de-908d-43fa-b01e-a5387c526cc1,https://inaturalist-open-data.s3.amazonaws.com/photos/179042099/medium.jpeg,-21.3600833333,-68.0275638889,Nor Lípez,Potosí
+106602632,26b5d8f8-330e-41ab-bca3-27b38b11831e,https://inaturalist-open-data.s3.amazonaws.com/photos/179110328/medium.jpeg,-15.5060639592,-72.4668752739,Castilla,Arequipa
+106616291,12240ef5-29e8-4148-bfb2-aa7a8e2567ca,https://inaturalist-open-data.s3.amazonaws.com/photos/179137891/medium.jpg,-18.0910167372,-69.1201772992,Parinacota,Arica y Parinacota
+106680796,bc80c192-369f-48d6-af01-89cba4b1f4f6,https://inaturalist-open-data.s3.amazonaws.com/photos/179262521/medium.jpg,-15.7526716667,-71.5821766667,Caylloma,Arequipa
+106703830,d24bfbfe-9497-42ef-9f91-46cfc85e3447,https://inaturalist-open-data.s3.amazonaws.com/photos/179304820/medium.jpg,-15.7172050475,-71.5899581908,Caylloma,Arequipa
+106889319,27e32420-0280-4d43-97b6-df945728ff39,https://inaturalist-open-data.s3.amazonaws.com/photos/179663774/medium.jpg,-21.7888400792,-68.0035827084,Nor Lípez,Potosí
+107410173,1a587761-64fb-4f92-9264-d88e65bf5236,https://inaturalist-open-data.s3.amazonaws.com/photos/180645961/medium.jpg,-15.5102550395,-71.6146071262,Caylloma,Arequipa
+107651705,58828f94-acab-417f-b5ab-386884969644,https://inaturalist-open-data.s3.amazonaws.com/photos/181102118/medium.jpeg,-21.3588423701,-68.0272492372,Nor Lípez,Potosí
+107967258,a4df7b09-d6b5-4b29-b397-9677f4444bd2,https://static.inaturalist.org/photos/181687992/medium.jpeg,-21.801919634,-68.0018694699,Nor Lípez,Potosí
+108894510,e96a95ad-a08e-444b-bd00-659ca2b15c53,https://inaturalist-open-data.s3.amazonaws.com/photos/183430894/medium.jpeg,-18.2033069276,-69.2683358118,Parinacota,Arica y Parinacota
+109142870,93bdf961-ee84-4486-8f63-d96a2f86bf47,https://inaturalist-open-data.s3.amazonaws.com/photos/183897033/medium.jpeg,-18.1705741882,-69.4299240112,Parinacota,Arica y Parinacota
+109160510,c76bcce8-c068-4130-92fa-281b191a7db1,https://static.inaturalist.org/photos/183920278/medium.jpg,-18.0548545,-69.2002389,Parinacota,Arica y Parinacota
+109192751,45b516a9-e2e5-49d2-b150-ad81dac7cf69,https://inaturalist-open-data.s3.amazonaws.com/photos/183989364/medium.jpg,-21.2889254698,-67.6446508429,Nor Lípez,Potosí
+109305908,c638776a-049f-4ef3-a2d9-0e38812d3f86,https://static.inaturalist.org/photos/184202463/medium.jpeg,-18.1005055556,-69.0291277778,Sajama,Oruro
+109347953,86ee7326-819e-47c3-8228-4df96911aa2d,https://inaturalist-open-data.s3.amazonaws.com/photos/184278710/medium.jpg,-21.3594830024,-67.5220202009,Nor Lípez,Potosí
+109493628,6582f7c5-37db-4463-8956-2c500a92af7d,https://inaturalist-open-data.s3.amazonaws.com/photos/184840451/medium.jpg,-18.17057,-69.4300083333,Parinacota,Arica y Parinacota
+109784628,1e9f5f6e-c699-44c5-b293-9a3e91703ed7,https://inaturalist-open-data.s3.amazonaws.com/photos/185095981/medium.jpg,-18.170625,-69.42993,Parinacota,Arica y Parinacota
+111031192,3eb15558-7c4c-41d5-84c9-e880f9953163,https://inaturalist-open-data.s3.amazonaws.com/photos/187386126/medium.jpeg,-20.0307111111,-68.7782361111,Iquique,Tarapacá
+111031199,2abeb829-4fb6-4fd5-87d2-aecd55baaf45,https://inaturalist-open-data.s3.amazonaws.com/photos/187386193/medium.jpeg,-20.0308611111,-68.7782305556,Iquique,Tarapacá
+111031222,297ffbc3-7f6a-4bb6-88ea-45f0e86c8cf8,https://inaturalist-open-data.s3.amazonaws.com/photos/187388390/medium.jpeg,-20.0308083333,-68.7483472222,Iquique,Tarapacá
+111031225,cd15d43c-c041-4631-8424-281c0e775067,https://inaturalist-open-data.s3.amazonaws.com/photos/187388387/medium.jpeg,-20.0306611111,-68.7481472222,Iquique,Tarapacá
+113250370,105eb6e1-9bb2-4d57-bb1e-af069a544d5f,https://static.inaturalist.org/photos/191355230/medium.jpeg,-22.4888233539,-68.0328231677,El Loa,Antofagasta
+114459011,fd17ba71-2ede-4b37-a6ba-7db87fe74e66,https://static.inaturalist.org/photos/193278451/medium.jpeg,-17.1719003073,-67.7289439738,Loayza,La Paz
+119302709,a4719de3-7295-4ab0-9eeb-7f2a3cc9ee8f,https://static.inaturalist.org/photos/201657930/medium.jpg,-20.927625,-68.6580416667,Iquique,Tarapacá
+119525097,cb156618-d82e-42da-bf28-64ab311b960e,https://static.inaturalist.org/photos/202059947/medium.jpeg,-21.8819945997,-67.540131,Nor Lípez,Potosí
+119526739,6a522532-62f0-4ad5-9738-f59f2d401cc3,https://static.inaturalist.org/photos/202063277/medium.jpeg,-21.8819279997,-67.5405657,Nor Lípez,Potosí
+119609584,a2629697-d6c9-47c7-8c9a-1e464ddbb9a7,https://static.inaturalist.org/photos/202215586/medium.jpeg,-21.7691256277,-67.9582098126,Nor Lípez,Potosí
+122245594,9371b7c4-e3f8-474c-b764-0837019737f8,https://inaturalist-open-data.s3.amazonaws.com/photos/206955234/medium.jpeg,-18.0528549471,-68.9317189157,Sajama,Oruro
+122727698,3b6be76b-b700-4f2b-b063-a12a756be0cb,https://inaturalist-open-data.s3.amazonaws.com/photos/207919457/medium.jpg,-22.2013693195,-65.2110069636,Santa Victoria,Salta
+124298038,023d5c2d-d8a0-4cce-a805-0619435a27e8,https://inaturalist-open-data.s3.amazonaws.com/photos/210662347/medium.jpeg,-22.231571619,-65.1223457828,Santa Victoria,Salta
+125186065,2d249808-5027-4ab7-ae98-3b73a7e8fc92,https://static.inaturalist.org/photos/212220939/medium.jpeg,-19.2537592138,-68.976703024,Iquique,Tarapacá
+127423196,e79ec075-78cf-44ae-943e-36f8d7342797,https://static.inaturalist.org/photos/216325238/medium.jpg,-22.5917921,-68.0701967,El Loa,Antofagasta
+127765692,2c0b67b8-1357-475a-8c2a-35acbddcd168,https://inaturalist-open-data.s3.amazonaws.com/photos/216942730/medium.jpeg,-15.7051280556,-71.6039630556,Caylloma,Arequipa
+128783632,5c8578f5-b1f7-4497-9ee3-717d3f46314f,https://inaturalist-open-data.s3.amazonaws.com/photos/218780165/medium.jpeg,-23.3057597233,-65.0651429594,Valle Grande,Jujuy
+128993862,912f6ee6-c13c-413f-8189-bc213a5d02c8,https://static.inaturalist.org/photos/219157079/medium.jpeg,-21.4360140672,-67.8583342837,Nor Lípez,Potosí
+129280589,dbdff484-0c3f-48dc-a2ca-ed1d40300dfb,https://static.inaturalist.org/photos/219679641/medium.jpg,-18.4782331383,-69.1794187838,Parinacota,Arica y Parinacota
+129290388,b6714fea-d237-485a-aeaf-124de3e71cf7,https://static.inaturalist.org/photos/219696181/medium.jpeg,-23.1632386272,-65.1277128607,Humahuaca,Jujuy
+130003231,94bfa387-7ae8-4d22-a42e-f1a8d2fb92bc,https://static.inaturalist.org/photos/221015799/medium.jpg,-20.1337772,-67.4891345,Nor Lípez,Potosí
+130382894,b9906d82-8fa5-440b-8f56-e12f7d6fa84a,https://static.inaturalist.org/photos/221725397/medium.jpg,-18.3295426777,-69.4991006412,Parinacota,Arica y Parinacota
+130842047,bc73f1c6-49e7-4670-901d-883b70cf45e4,https://inaturalist-open-data.s3.amazonaws.com/photos/222571626/medium.jpeg,-18.1823697498,-69.3859313568,Parinacota,Arica y Parinacota
+131740776,0c82c5aa-6548-4dcf-8837-8e7296591396,https://static.inaturalist.org/photos/224236038/medium.jpeg,-18.1020052697,-68.9441780994,Sajama,Oruro
+131741283,d48731e5-abc8-458e-ad8e-2350f79f24fe,https://static.inaturalist.org/photos/224237357/medium.jpeg,-19.8176779281,-67.6581327144,Ladislao Cabrera,Oruro
+131741802,cc6ed8d2-7ba6-4999-adc5-7d5f9b1f4c85,https://static.inaturalist.org/photos/224238534/medium.jpeg,-18.1049746955,-68.9127245206,Sajama,Oruro
+131964267,100b06ad-6cbf-4b93-9856-cb4f47d1769b,https://inaturalist-open-data.s3.amazonaws.com/photos/224656200/medium.jpeg,-15.7590111111,-71.5550833333,Caylloma,Arequipa
+132390287,1e40701e-b31e-4ebd-ab9d-6cc87df67e25,https://inaturalist-open-data.s3.amazonaws.com/photos/225448771/medium.jpeg,-19.3286027778,-65.62325,Tomás Frías,Potosí
+132390354,f0d3dbce-c6b5-4f5b-9ff2-9a4c02241102,https://inaturalist-open-data.s3.amazonaws.com/photos/225448930/medium.jpeg,-19.3285444444,-65.62285,Tomás Frías,Potosí
+134125381,62cfc953-3e48-42f2-8ba7-6d5576959af2,https://inaturalist-open-data.s3.amazonaws.com/photos/228572231/medium.jpeg,-19.494851617,-68.7164344266,Iquique,Tarapacá
+134625322,c1fc24a1-eb89-4fb4-808b-bdf4a0111a77,https://inaturalist-open-data.s3.amazonaws.com/photos/229501986/medium.jpeg,-20.975238645,-68.6906007305,Iquique,Tarapacá
+134734431,5df83b59-d246-48e2-83b9-77446bd3be61,https://static.inaturalist.org/photos/229708649/medium.jpeg,-20.91256351,-68.65483001,Iquique,Tarapacá
+136753778,fecdb9f6-1072-4d91-b691-62dbb1afb125,https://static.inaturalist.org/photos/233443162/medium.jpg,-16.1850270153,-71.5320275751,Arequipa,Arequipa
+136753790,03b25dc5-d173-43b1-8b23-b6c1322b7143,https://static.inaturalist.org/photos/233443452/medium.jpg,-16.1850270153,-71.5320275751,Arequipa,Arequipa
+139109240,9c867258-632e-4f8b-8dda-e0c04a9afdd5,https://inaturalist-open-data.s3.amazonaws.com/photos/237867530/medium.jpeg,-22.2021166667,-65.210685,Santa Victoria,Salta
+139109241,8fe8ee40-08ba-4c8e-b1c9-447f2317c193,https://inaturalist-open-data.s3.amazonaws.com/photos/237867542/medium.jpeg,-22.2021166667,-65.210685,Santa Victoria,Salta
+139113901,2091aab8-6e66-47fa-bd96-50c9606f85f2,https://inaturalist-open-data.s3.amazonaws.com/photos/237872576/medium.jpg,-22.20153,-65.21044,Santa Victoria,Salta
+139113908,5cc76d4d-fc47-4f82-9663-b09b86632d6e,https://inaturalist-open-data.s3.amazonaws.com/photos/237875659/medium.jpeg,-22.2016516667,-65.2108016667,Santa Victoria,Salta
+139334987,bcb0401b-6e60-4485-8ae6-a2340a6c6ce6,https://inaturalist-open-data.s3.amazonaws.com/photos/238295402/medium.jpeg,-23.359223,-64.9997919722,Valle Grande,Jujuy
+139439172,37061d21-b0db-4d96-b860-9168d1242acb,https://inaturalist-open-data.s3.amazonaws.com/photos/238492946/medium.jpg,-22.2020496614,-65.2109016572,Santa Victoria,Salta
+139701620,28cb3b06-7085-4e27-bb20-43897d599aee,https://inaturalist-open-data.s3.amazonaws.com/photos/238990088/medium.jpeg,-22.202455,-65.2105866667,Santa Victoria,Salta
+139701706,10ca9065-557f-41c1-8228-b83823e9cef9,https://inaturalist-open-data.s3.amazonaws.com/photos/238991405/medium.jpeg,-22.2014187444,-65.2108862232,Santa Victoria,Salta
+140547274,71ca79f0-dea1-4570-b4d4-995fc8321ea8,https://inaturalist-open-data.s3.amazonaws.com/photos/240597170/medium.jpg,-18.0830692749,-68.9184885846,Sajama,Oruro
+140678205,ae676237-75ec-4a3c-9217-2afc145df930,https://inaturalist-open-data.s3.amazonaws.com/photos/240843323/medium.jpg,-22.1999616667,-65.2107,Santa Victoria,Salta
+140774841,5d838083-b256-478a-b303-1940513a9127,https://inaturalist-open-data.s3.amazonaws.com/photos/241022293/medium.jpg,-21.8680241389,-65.0080832778,Aniceto Arce,Tarija
+140776590,389d9659-d3d8-4bb2-b59d-3b6534bacab3,https://inaturalist-open-data.s3.amazonaws.com/photos/241025247/medium.jpg,-21.6272254167,-65.0199245,José María Avilés,Tarija
+140777434,a399ab63-45b1-4d39-b72b-487a500315f7,https://inaturalist-open-data.s3.amazonaws.com/photos/241026450/medium.jpg,-22.0267056111,-66.7868377778,Sud Lípez,Potosí
+140837034,f03ac320-4199-476d-aed0-4fdc294edb82,https://inaturalist-open-data.s3.amazonaws.com/photos/241141562/medium.jpeg,-23.144847357,-68.2085245933,El Loa,Antofagasta
+140868426,e163cfa0-0a04-4019-8523-4661d0af8c78,https://inaturalist-open-data.s3.amazonaws.com/photos/241201054/medium.jpeg,-24.3929862,-65.7683334,Rosario de Lerma,Salta
+141029825,5573089e-58f3-49f8-9b18-aebc6a05d095,https://static.inaturalist.org/photos/241505420/medium.jpeg,-16.0773315428,-71.4999389647,Arequipa,Arequipa
+141032105,b03b6242-e7c9-4a82-90db-fcc3c8f04cdb,https://static.inaturalist.org/photos/241510373/medium.jpeg,-15.9376964567,-71.195121765,Caylloma,Arequipa
+141032760,f5d16c63-01a2-4a58-9cb5-d074de2aa742,https://static.inaturalist.org/photos/241511496/medium.jpeg,-15.9371881483,-71.1956481933,Caylloma,Arequipa
+141464095,a1aecfd0-1ecf-4e66-a410-5cfad40b68a2,https://inaturalist-open-data.s3.amazonaws.com/photos/242359269/medium.jpeg,-20.951857,-68.664039,Iquique,Tarapacá
+141539285,4169d4e0-163f-4571-bdb0-8573035c113e,https://static.inaturalist.org/photos/242504772/medium.jpeg,-19.095374504,-69.1090585291,Iquique,Tarapacá
+141553350,2bc5a560-40bf-4e7a-a356-eb2d89ab3e8a,https://inaturalist-open-data.s3.amazonaws.com/photos/242530973/medium.jpeg,-19.7546905911,-66.3717230782,Antonio Quijarro,Potosí
+142151394,1b259b2d-f2d0-41c2-b74b-6b9d7e6e89fa,https://inaturalist-open-data.s3.amazonaws.com/photos/243667296/medium.jpg,-22.375125,-68.0308388333,El Loa,Antofagasta
+143368809,890589a1-2d2a-4484-96ed-7f8152bbb626,https://static.inaturalist.org/photos/245866324/medium.jpeg,-21.079422,-68.7650969722,Iquique,Tarapacá
+143470547,055b344c-629e-401d-a082-19ed9f162d52,https://static.inaturalist.org/photos/246054475/medium.jpg,-21.3589066667,-68.0266383333,Nor Lípez,Potosí
+143514500,d9fce14a-9f15-41a1-b75b-d639a8a42e6d,https://inaturalist-open-data.s3.amazonaws.com/photos/246136191/medium.jpeg,-22.3756367,-68.031101,El Loa,Antofagasta
+143806050,dfc6d8e5-5dc4-4374-8aef-38c43cad797e,https://inaturalist-open-data.s3.amazonaws.com/photos/246695529/medium.jpg,-20.741,-64.815,Sud Cinti,Chuquisaca
+144445834,e00ae6b1-9a24-479d-aa7b-c225611931a2,https://static.inaturalist.org/photos/247912159/medium.jpeg,-21.92603023,-68.00541226,Nor Lípez,Potosí
+144445907,b5af4181-3f4c-487b-965e-e657a71f02fb,https://static.inaturalist.org/photos/247912254/medium.jpeg,-22.53676884,-67.64960243,Sud Lípez,Potosí
+144607477,01ca1a3f-dbc3-48c1-ad81-c7d94c27c75c,https://inaturalist-open-data.s3.amazonaws.com/photos/248224805/medium.jpeg,-15.7156596162,-71.5886863741,Caylloma,Arequipa
+144946387,31b3fe23-c399-4ffe-9681-b82f60746c59,https://inaturalist-open-data.s3.amazonaws.com/photos/248888431/medium.jpeg,-18.0575300089,-68.9424052597,Sajama,Oruro
+145560123,8466b8b2-529b-415a-b072-b75d7f2bb845,https://inaturalist-open-data.s3.amazonaws.com/photos/250050671/medium.jpg,-19.3837930507,-68.7619639395,Iquique,Tarapacá
+145688603,6e4ce912-38bd-4acd-9968-ce91a159e7b1,https://inaturalist-open-data.s3.amazonaws.com/photos/250299047/medium.jpeg,-23.442,-65.3087,Tilcara,Jujuy
+145965333,bbc53f8a-9fb5-40bc-b1cd-c6a4977cb712,https://inaturalist-open-data.s3.amazonaws.com/photos/250840636/medium.jpeg,-26.6715379687,-65.7211979766,Tafí Viejo,Tucumán
+146297507,e8059fb7-52a3-487c-9b15-7a7148cdde2e,https://static.inaturalist.org/photos/251489115/medium.jpeg,-22.5376747,-67.6486198997,Sud Lípez,Potosí
+146316085,fdf37a16-9276-48b0-9b52-55fab1604afc,https://inaturalist-open-data.s3.amazonaws.com/photos/251524811/medium.jpg,-22.634419,-68.054232,El Loa,Antofagasta
+146711062,b98d7b3b-a500-45f0-8f20-4efd461a7b05,https://inaturalist-open-data.s3.amazonaws.com/photos/252297169/medium.jpeg,-21.3664321399,-68.731659988,El Loa,Antofagasta
+147065733,d1cbc211-7282-474e-bec5-7114ae934006,https://inaturalist-open-data.s3.amazonaws.com/photos/252990772/medium.jpg,-21.3585366667,-68.0278666667,Nor Lípez,Potosí
+147478788,627c6753-7aa1-4872-be37-ec4a3519b76b,https://inaturalist-open-data.s3.amazonaws.com/photos/253778422/medium.jpeg,-22.9239236399,-65.553577422,Humahuaca,Jujuy
+147478789,92e60c8b-804c-47b6-84e4-676e705f4178,https://inaturalist-open-data.s3.amazonaws.com/photos/253778434/medium.jpeg,-22.9288737857,-65.5532592603,Humahuaca,Jujuy
+147484061,23763e9f-da4e-4b6f-ad73-7ac1d2c7f788,https://static.inaturalist.org/photos/253788654/medium.jpeg,-22.4203444444,-68.0437111111,El Loa,Antofagasta
+148325184,17b9142a-4e17-4f4d-be7c-645ecbef0e9e,https://static.inaturalist.org/photos/255401869/medium.jpeg,-21.562663,-68.0570534,Nor Lípez,Potosí
+148816698,56e6278f-7a19-4217-b503-5d7406446f36,https://inaturalist-open-data.s3.amazonaws.com/photos/256341653/medium.jpeg,-18.2036806201,-68.921012865,Sajama,Oruro
+148821261,158f6e64-fd6e-4d1d-8e0e-ef9780222650,https://inaturalist-open-data.s3.amazonaws.com/photos/256349921/medium.jpeg,-18.171063556,-68.9265060291,Sajama,Oruro
+149318283,7115f3f2-bd4d-4a91-94a6-afeb3603cc7f,https://inaturalist-open-data.s3.amazonaws.com/photos/257279231/medium.jpg,-15.679649879,-71.5692447058,Caylloma,Arequipa
+149972098,31dc30b6-e5d6-4aec-b563-a2c1d381bb97,https://static.inaturalist.org/photos/258514588/medium.jpeg,-22.5358902564,-65.8637535114,Rinconada,Jujuy
+150470730,553f92a0-b22b-4348-b8e1-9f36677651e1,https://static.inaturalist.org/photos/259468626/medium.jpeg,-21.8756311699,-67.537298203,Nor Lípez,Potosí
+151224087,97b5f66d-742b-4477-9e61-c11de9b59248,https://inaturalist-open-data.s3.amazonaws.com/photos/260890022/medium.jpg,-21.3486083333,-68.0332966667,Nor Lípez,Potosí
+151324020,01778ac4-cd72-424c-a84e-29d206d56d07,https://inaturalist-open-data.s3.amazonaws.com/photos/261078453/medium.jpg,-15.7420568317,-71.5904108197,Caylloma,Arequipa
+151379394,28ca9a0f-60f7-411d-aad9-93d963e0a1d6,https://inaturalist-open-data.s3.amazonaws.com/photos/261185582/medium.jpeg,-15.733425,-71.5955111111,Caylloma,Arequipa
+151515981,659a7c69-dc6b-4abd-b83a-3b4640da45e4,https://inaturalist-open-data.s3.amazonaws.com/photos/261438425/medium.jpeg,-22.4313108681,-67.7937598349,Sud Lípez,Potosí
+151695311,f3cfa7f8-769f-48b4-abbc-2fb7f4c9609a,https://inaturalist-open-data.s3.amazonaws.com/photos/261777621/medium.jpeg,-22.2017925472,-65.2110381972,Santa Victoria,Salta
+151797624,4892e85a-97c2-403a-98b8-f4790edc75aa,https://inaturalist-open-data.s3.amazonaws.com/photos/261969219/medium.jpeg,-22.20228,-65.21122,Santa Victoria,Salta
+152369941,8e709ded-d1cc-48d5-9c60-c65ba98ae0a9,https://static.inaturalist.org/photos/263027235/medium.jpg,-21.9646,-67.57118,Nor Lípez,Potosí
+152377002,fbb628d8-9398-44d8-8dab-5e05d730fe1a,https://inaturalist-open-data.s3.amazonaws.com/photos/263154953/medium.jpg,-16.6011747896,-68.8661116659,Ingavi,La Paz
+153830999,a6deba16-1c11-4e9c-b7cd-2130d9ec87e3,https://inaturalist-open-data.s3.amazonaws.com/photos/265738252/medium.jpg,-15.4756960531,-71.6894591057,Caylloma,Arequipa
+154132459,9f869365-0f1b-439b-9bfc-666dd298f672,https://static.inaturalist.org/photos/266290548/medium.jpeg,-21.3583412,-68.0282141997,Nor Lípez,Potosí
+155301389,4e26c7b0-6c15-4553-8a1f-dd1ce22116d6,https://inaturalist-open-data.s3.amazonaws.com/photos/268434900/medium.jpg,-18.2891260681,-69.3232499063,Parinacota,Arica y Parinacota
+155661287,c35df57a-5a7f-466f-a7b6-83ecd81130ec,https://inaturalist-open-data.s3.amazonaws.com/photos/269097298/medium.jpg,-18.2321796536,-69.2772260667,Parinacota,Arica y Parinacota
+155816643,9873b229-bc01-492a-a6a7-68d596e5c1d8,https://inaturalist-open-data.s3.amazonaws.com/photos/269377982/medium.jpeg,-20.8645863366,-68.8644668214,Iquique,Tarapacá
+158197243,6150b12e-303e-4e5e-b56b-4d300f920cdf,https://static.inaturalist.org/photos/273431103/medium.jpeg,-17.075307034,-68.0055093952,Aroma,La Paz
+158417830,8b91b71d-8a26-4798-96b4-016b28c2baad,https://inaturalist-open-data.s3.amazonaws.com/photos/273789335/medium.jpg,-17.2606333333,-66.3841166667,Quillacollo,Cochabamba
+158972483,78522f2b-fbc3-4154-b7ee-40b9ca5dd3c7,https://static.inaturalist.org/photos/274666270/medium.jpeg,-16.5378817455,-68.2692602277,Los Andes,La Paz
+158976878,7c17a15f-e717-4623-92f0-aa0ed8c29bb5,https://static.inaturalist.org/photos/274673583/medium.jpg,-19.8652616667,-66.4807133333,Antonio Quijarro,Potosí
+159084874,423fd406-9968-4721-82dc-1fe38fba30e6,https://inaturalist-open-data.s3.amazonaws.com/photos/274850777/medium.jpg,-18.2148,-69.3018,Parinacota,Arica y Parinacota
+159965583,b7db6e88-008d-4fb4-999b-8cfec45cc197,https://static.inaturalist.org/photos/276400509/medium.jpeg,-22.2207852,-65.2208171997,Santa Victoria,Salta
+159965697,f9d1558d-46bf-4bd2-afda-777364cf93e7,https://static.inaturalist.org/photos/276400762/medium.jpeg,-22.2207852,-65.2208171997,Santa Victoria,Salta
+161361693,4f5f5200-679d-468f-92ed-d832db9db2e6,https://inaturalist-open-data.s3.amazonaws.com/photos/278909306/medium.jpeg,-16.376265,-71.20241,Arequipa,Arequipa
+162564644,fbe08e59-e0a0-4252-a4e2-6cdd7c763288,https://inaturalist-open-data.s3.amazonaws.com/photos/281099966/medium.jpg,-17.8290533333,-69.3217466667,Parinacota,Arica y Parinacota
+163484484,7c4e6489-ff73-4794-98a3-b9ae49e56007,https://inaturalist-open-data.s3.amazonaws.com/photos/282765229/medium.jpeg,-21.3590072278,-68.0269421083,Nor Lípez,Potosí
+163485008,15ebbd46-7e92-4613-9628-585bf7f02af4,https://inaturalist-open-data.s3.amazonaws.com/photos/282766108/medium.jpeg,-21.3591364583,-68.0271500389,Nor Lípez,Potosí
+163630217,2627d04b-96df-445c-8fe1-48c88bf5b299,https://inaturalist-open-data.s3.amazonaws.com/photos/283035535/medium.jpeg,-21.5349772,-67.5795167997,Nor Lípez,Potosí
+163919443,c02180a0-081a-4e85-9957-18c4c0e2ce31,https://static.inaturalist.org/photos/283559503/medium.jpg,-26.0595658,-67.4064692,Antofagasta de la Sierra,Catamarca
+164624306,94ba30e4-2647-4ca2-abc1-1d9193dcd155,https://inaturalist-open-data.s3.amazonaws.com/photos/284856233/medium.jpg,-21.8609217778,-65.0039392778,Aniceto Arce,Tarija
+164624330,a60516d9-0073-4fb4-b808-c0e41cd7cc27,https://inaturalist-open-data.s3.amazonaws.com/photos/284857883/medium.jpg,-21.65295575,-64.9767405278,José María Avilés,Tarija
+164624331,5ed8171d-28c9-47f3-be63-82f9d48d3228,https://inaturalist-open-data.s3.amazonaws.com/photos/284858095/medium.jpg,-21.6501497222,-64.9749124167,Cercado,Tarija
+164624350,dc90e4c2-954a-4aeb-8d7e-070c54041bb4,https://inaturalist-open-data.s3.amazonaws.com/photos/284859221/medium.jpg,-21.8756335592,-65.0074947834,Aniceto Arce,Tarija
+164650166,27b0418e-6975-4bb9-9d63-a1f5d5e947b3,https://inaturalist-open-data.s3.amazonaws.com/photos/284907675/medium.jpeg,-21.8754948774,-65.0081568936,Aniceto Arce,Tarija
+164663640,a2fc51fd-0ec0-4915-9de8-56e0bbeb7c77,https://inaturalist-open-data.s3.amazonaws.com/photos/284932388/medium.jpg,-15.937005,-71.1960216667,Caylloma,Arequipa
+164669310,e60d32f8-8e2f-41f4-85f7-05c1810ec259,https://inaturalist-open-data.s3.amazonaws.com/photos/284921137/medium.jpeg,-21.6374425981,-64.9741488947,José María Avilés,Tarija
+166621433,192501d3-fd42-438c-b77a-bb40babb9c7f,https://inaturalist-open-data.s3.amazonaws.com/photos/288545817/medium.jpeg,-15.9717267404,-71.4309298111,Arequipa,Arequipa
+166800908,bffcbd6f-73d4-41af-96a4-4a2580feae13,https://inaturalist-open-data.s3.amazonaws.com/photos/288879984/medium.jpg,-18.1706016715,-69.4298341698,Parinacota,Arica y Parinacota
+169889329,0f0e83a2-4aa4-4ec4-856b-460b2a990cb6,https://static.inaturalist.org/photos/294581938/medium.jpeg,-16.4091568373,-71.5386812389,Arequipa,Arequipa
+173348116,e162f410-976c-456a-b142-6198cd50fdee,https://static.inaturalist.org/photos/301031928/medium.jpeg,-14.7318096158,-74.4262084958,Lucanas,Ayacucho
+174150457,9cf7a9c5-ba05-4702-9efd-59b7e34f1db7,https://inaturalist-open-data.s3.amazonaws.com/photos/302552657/medium.jpg,-22.2228956317,-65.220096627,Santa Victoria,Salta
+174158823,c786fcdc-fb72-41ad-a049-328db3c3f221,https://static.inaturalist.org/photos/302530950/medium.jpg,-22.24605,-65.1296638889,Santa Victoria,Salta
+174158841,c479f534-9bb1-47d8-972a-ee4ed10e375b,https://static.inaturalist.org/photos/302532497/medium.jpg,-22.2233472222,-65.2196305556,Santa Victoria,Salta
+175874299,9de0b3ca-e073-44b1-911c-4eabf6b118c1,https://inaturalist-open-data.s3.amazonaws.com/photos/305688086/medium.jpeg,-15.3339901313,-73.4577963797,Parinacochas,Ayacucho
+175899145,e6516b13-45af-4404-9f13-c9bf4d519a95,https://inaturalist-open-data.s3.amazonaws.com/photos/305741938/medium.jpg,-23.609921855,-67.8574065919,El Loa,Antofagasta
+177068451,1ad73879-d857-4ce0-b81c-79a0bdfdce6c,https://inaturalist-open-data.s3.amazonaws.com/photos/307915498/medium.jpeg,-19.8742833333,-66.4960138889,Antonio Quijarro,Potosí
+179523586,983ce48c-b579-4011-a85a-fb015a900b7e,https://inaturalist-open-data.s3.amazonaws.com/photos/312560219/medium.jpeg,-18.0480930671,-68.9340162466,Sajama,Oruro
+181168723,00c3e39f-bc59-4077-ae6c-d010450299dc,https://static.inaturalist.org/photos/315708471/medium.jpg,-19.5561550347,-66.8419169062,Antonio Quijarro,Potosí
+184053143,0d2e22ab-968f-487a-a26e-08b5b1a2b43f,https://inaturalist-open-data.s3.amazonaws.com/photos/321210702/medium.jpeg,-21.2914489658,-68.1108596921,Nor Lípez,Potosí
+184566176,c54a8842-a7bf-4d45-b6d7-ba7a3e7dce96,https://inaturalist-open-data.s3.amazonaws.com/photos/322190410/medium.jpeg,-17.6805012253,-66.7707901821,Tapacarí,Cochabamba
+184566311,a91e205e-335d-40fa-b7f2-c0f7122f6cb8,https://inaturalist-open-data.s3.amazonaws.com/photos/322190614/medium.jpeg,-17.6620954672,-66.8240176141,Tapacarí,Cochabamba
+184620121,7d06309d-2641-4ab9-b0b5-248123bb1f69,https://inaturalist-open-data.s3.amazonaws.com/photos/328354421/medium.jpg,-22.7482189011,-68.0697880719,El Loa,Antofagasta
+184955023,5eda8a92-e359-470a-bfa3-b756b8f5ef6a,https://inaturalist-open-data.s3.amazonaws.com/photos/322929894/medium.jpeg,-17.66371796,-66.81905965,Tapacarí,Cochabamba
+185011789,fb830686-bc06-4cce-84dd-d6f9972126dc,https://inaturalist-open-data.s3.amazonaws.com/photos/323024870/medium.jpg,-20.4010704722,-66.3310785278,Antonio Quijarro,Potosí
+185011793,b5557356-55eb-458c-944d-ef6ceff912b8,https://inaturalist-open-data.s3.amazonaws.com/photos/323025125/medium.jpg,-20.3884420278,-66.3645991667,Antonio Quijarro,Potosí
+185310806,ef627061-a43c-483c-9ced-30fbd8d6d19c,https://inaturalist-open-data.s3.amazonaws.com/photos/323619046/medium.jpg,-18.2483676455,-69.2740804652,Parinacota,Arica y Parinacota
+185812064,ae3072db-aaed-4702-ba83-8476415f52cb,https://static.inaturalist.org/photos/324581460/medium.jpeg,-22.0541240472,-68.2465462759,El Loa,Antofagasta
+186688808,d80672db-29cc-4da0-b057-30c5c513a1c8,https://inaturalist-open-data.s3.amazonaws.com/photos/326309056/medium.jpg,-19.49175,-68.8568916667,Iquique,Tarapacá
+187556716,6eed50fc-639f-4ee5-beb5-773e41b813d6,https://static.inaturalist.org/photos/328023620/medium.jpeg,-14.6583982446,-74.3969750153,Lucanas,Ayacucho
+187556757,e82d5f3a-d3dd-4510-83a7-4db3f48bea9d,https://static.inaturalist.org/photos/328023675/medium.jpeg,-14.6584201426,-74.3970191698,Lucanas,Ayacucho
+187839047,057bba96-68da-41fd-a338-093c1a49958d,https://static.inaturalist.org/photos/328697206/medium.jpeg,-28.15275399,-65.95266719,Ambato,Catamarca
+189400589,3be04950-7e9a-4dec-9ff4-c8ec42260119,https://inaturalist-open-data.s3.amazonaws.com/photos/331775553/medium.jpg,-22.6692909291,-67.7640894757,Sud Lípez,Potosí
+189400593,8688177b-2b41-4555-aad7-70345941d290,https://inaturalist-open-data.s3.amazonaws.com/photos/331775796/medium.jpg,-22.6700277089,-67.7634974952,Sud Lípez,Potosí
+189419097,af145d97-0adb-4344-9b22-360674e3a838,https://inaturalist-open-data.s3.amazonaws.com/photos/331816587/medium.jpg,-20.7515783333,-67.6464,Nor Lípez,Potosí
+189521229,3af1ef4c-79f3-4e24-a229-dc915de07985,https://inaturalist-open-data.s3.amazonaws.com/photos/332027060/medium.jpg,-22.2020072314,-65.2108957513,Santa Victoria,Salta
+189591097,64345531-e377-427d-9f5f-b7b0f7c1d124,https://static.inaturalist.org/photos/332167391/medium.jpeg,-18.3105934,-69.1358185,Parinacota,Arica y Parinacota
+190743756,c4335df5-723c-4b17-942b-794523b40b5d,https://static.inaturalist.org/photos/334449442/medium.jpeg,-23.3177908378,-65.0345701352,Valle Grande,Jujuy
+191120463,bbc144dd-0158-42e2-8655-9db2306eda07,https://inaturalist-open-data.s3.amazonaws.com/photos/335196417/medium.jpg,-22.2245277778,-65.2379166667,Yavi,Jujuy
+191630792,4afd8821-c62c-47a8-9a65-2a345a941962,https://static.inaturalist.org/photos/336223870/medium.jpg,-21.7267333333,-67.5246883333,Nor Lípez,Potosí
+191758275,a670a757-ddec-45e2-a5e9-890ba9c4ca9d,https://static.inaturalist.org/photos/336480493/medium.jpeg,-22.9087070955,-68.1997155771,El Loa,Antofagasta
+192416733,f57cf5c1-c121-4de0-91cc-62014c1d06cd,https://inaturalist-open-data.s3.amazonaws.com/photos/337776230/medium.jpeg,-22.0541583333,-67.6621583333,Sud Lípez,Potosí
+192453656,8fe7b8b5-1e52-4876-ba59-c42ec5d31fa5,https://inaturalist-open-data.s3.amazonaws.com/photos/337850966/medium.jpeg,-26.7372222,-65.7841667,Tafí del Valle,Tucumán
+193144681,5a5e2034-4eac-4751-a1d9-aa07acee766a,https://inaturalist-open-data.s3.amazonaws.com/photos/339236747/medium.jpg,-21.4465925278,-66.3220862222,Sud Lípez,Potosí
+193153073,f825149d-0c40-4d38-b2bf-d6f57ae7507c,https://inaturalist-open-data.s3.amazonaws.com/photos/339260710/medium.jpg,-21.0632583333,-68.4715283333,El Loa,Antofagasta
+193165853,b3489b6c-c194-4826-8811-2cbb61bb7fcd,https://inaturalist-open-data.s3.amazonaws.com/photos/339284938/medium.jpeg,-19.1206722222,-68.9101805556,Iquique,Tarapacá
+193167353,6e960e8a-bbe8-43d9-b2fc-e2f736bcf2bf,https://inaturalist-open-data.s3.amazonaws.com/photos/339288137/medium.jpeg,-19.7487944444,-68.7846527778,Iquique,Tarapacá
+193335957,847418f6-5906-42ac-9ab0-713b31ecc587,https://inaturalist-open-data.s3.amazonaws.com/photos/339616266/medium.jpg,-21.9262059219,-68.0052406714,Nor Lípez,Potosí
+193335970,7d433052-519d-43f4-b0e6-3751e522094c,https://inaturalist-open-data.s3.amazonaws.com/photos/339616314/medium.jpg,-21.9262271282,-68.0052522384,Nor Lípez,Potosí
+193658441,48f96689-d585-4619-9dc6-07e34ac5c809,https://static.inaturalist.org/photos/340214777/medium.jpeg,-16.4320343997,-71.0015276997,Arequipa,Arequipa
+193658622,f7b2a3c0-05ce-4281-b32c-614364712f62,https://static.inaturalist.org/photos/340215009/medium.jpeg,-16.4317819,-71.0013440997,Arequipa,Arequipa
+193831944,18eea0ed-a93a-4d92-85fb-7d2458220e0c,https://inaturalist-open-data.s3.amazonaws.com/photos/340557319/medium.jpg,-16.6173531998,-68.867507221,Ingavi,La Paz
+193898766,b3e10ded-2f1a-45cf-9603-39589dd2c258,https://inaturalist-open-data.s3.amazonaws.com/photos/340690593/medium.jpeg,-16.1743519936,-71.5222489034,Arequipa,Arequipa
+193899533,29335dcb-2742-44f1-b374-61c604ee03a0,https://inaturalist-open-data.s3.amazonaws.com/photos/340692320/medium.jpeg,-18.0500242812,-69.0523015474,Sajama,Oruro
+194075538,1917613c-389a-409a-b874-0526a570ba37,https://inaturalist-open-data.s3.amazonaws.com/photos/341043771/medium.jpeg,-16.5557869,-68.6715003997,Ingavi,La Paz
+194466861,b8ddb70d-12cd-4b46-934e-361a0079ef2e,https://inaturalist-open-data.s3.amazonaws.com/photos/341838087/medium.jpeg,-22.7159396933,-68.0788742245,El Loa,Antofagasta
+194469927,c7b5da08-a397-4651-a821-f98345cd01c6,https://inaturalist-open-data.s3.amazonaws.com/photos/341844739/medium.jpeg,-22.6486472222,-68.0592972222,El Loa,Antofagasta
+194622507,e51ecc5d-2e28-4fce-bc56-45c7b18f44eb,https://inaturalist-open-data.s3.amazonaws.com/photos/342153239/medium.jpg,-18.170044445,-69.430675,Parinacota,Arica y Parinacota
+194677928,b3bb8e3a-d9bd-46d1-ab80-afc547637e40,https://inaturalist-open-data.s3.amazonaws.com/photos/342265930/medium.jpg,-18.2569777778,-69.3764805556,Parinacota,Arica y Parinacota
+194756721,103e49bc-0396-4bd1-86c8-0f6f416c13e3,https://static.inaturalist.org/photos/342428680/medium.jpeg,-28.8443770649,-67.7828117833,Famatina,La Rioja
+194998509,fc068d3d-85c0-4571-9bef-f7303362b9e2,https://static.inaturalist.org/photos/342929451/medium.jpg,-16.4317966667,-71.0013111117,Arequipa,Arequipa
+194998715,b438cc52-6724-4ffd-89d8-b27be4d69401,https://static.inaturalist.org/photos/342929742/medium.jpg,-16.3844,-71.3133616667,Arequipa,Arequipa
+195169678,b4f411b3-1e88-4433-92da-d21cab9d9b62,https://static.inaturalist.org/photos/343277142/medium.jpg,-15.69734,-71.59002,Caylloma,Arequipa
+195406897,860238f6-0858-4c2e-8d0f-9d19b4499f05,https://static.inaturalist.org/photos/343761295/medium.jpg,-16.5132962696,-71.2021087514,General Sánchez Cerro,Moquegua
+195876923,9dd791e6-546f-4fad-bd05-2f2e2fa9b8e3,https://static.inaturalist.org/photos/344712924/medium.jpg,-22.219525,-65.2263116667,Santa Victoria,Salta
+195883547,afe7f5b2-1cce-4ec7-9f36-ef4ad32aecc5,https://inaturalist-open-data.s3.amazonaws.com/photos/344726753/medium.jpg,-22.459995,-68.0726,El Loa,Antofagasta
+195901768,806efc7c-5d08-4613-b140-f37b3d41fb27,https://inaturalist-open-data.s3.amazonaws.com/photos/344765506/medium.jpg,-21.358375,-68.0281971667,Nor Lípez,Potosí
+196352148,18f49c07-3769-4990-a032-9bf5c29e4e47,https://inaturalist-open-data.s3.amazonaws.com/photos/345667356/medium.jpeg,-21.3585083333,-68.0278944444,Nor Lípez,Potosí
+196419782,aba23a6b-e362-4f2c-88f9-5323a8d485a2,https://inaturalist-open-data.s3.amazonaws.com/photos/345807716/medium.jpeg,-16.0570725449,-71.3944387602,Arequipa,Arequipa
+197846365,a7191510-4f8d-400b-bb07-f17f2f0d94c4,https://inaturalist-open-data.s3.amazonaws.com/photos/348563581/medium.jpg,-16.6219168109,-68.8579529646,Ingavi,La Paz
+197925541,26580ee2-56a4-4fde-8b7a-d09f4ef78842,https://static.inaturalist.org/photos/348726243/medium.jpg,-22.2199095454,-65.2264170994,Santa Victoria,Salta
+197996625,f7841836-bfa2-4f54-a8ba-c6e80b039159,https://inaturalist-open-data.s3.amazonaws.com/photos/348870467/medium.jpeg,-22.8877991258,-65.249963589,Humahuaca,Jujuy
+198001780,6597b2b2-27a9-4876-8267-a976a075f5d8,https://inaturalist-open-data.s3.amazonaws.com/photos/348880391/medium.jpeg,-20.9965858738,-68.8343647867,Iquique,Tarapacá
+198096183,9a7ab081-e38b-4795-8266-86c50590c4ae,https://inaturalist-open-data.s3.amazonaws.com/photos/349041420/medium.jpeg,-22.3429033,-68.0120759,El Loa,Antofagasta
+198131720,19307960-9781-4ecf-96db-5e6518da5478,https://static.inaturalist.org/photos/349141998/medium.jpeg,-23.2973917392,-64.9698185921,Orán,Salta
+198321954,00c18563-3dfe-4e43-9077-5cdc6d728ed0,https://inaturalist-open-data.s3.amazonaws.com/photos/349505385/medium.jpg,-16.280311,-68.131594,Pedro Domingo Murillo,La Paz
+199408362,ac5a9505-3bf5-4046-812c-ca852e707f89,https://static.inaturalist.org/photos/351656222/medium.jpeg,-21.577440906,-67.0839548483,Nor Lípez,Potosí
+199904419,235b0a8d-7e25-4644-b1e3-9198c0a1bf46,https://inaturalist-open-data.s3.amazonaws.com/photos/352599302/medium.jpg,-22.21928,-65.22632,Santa Victoria,Salta
+200333691,344f1ae0-d7f7-47a2-b4b3-9c97f822b0a6,https://inaturalist-open-data.s3.amazonaws.com/photos/353429397/medium.jpg,-16.6369022375,-68.8514665352,Ingavi,La Paz
+200340812,430867a3-4bce-4129-bca9-2b3760dcae02,https://inaturalist-open-data.s3.amazonaws.com/photos/353443318/medium.jpeg,-18.1755916667,-69.4168138889,Parinacota,Arica y Parinacota
+200501252,65a2a9a4-ef16-484d-8622-df88aec9cb73,https://inaturalist-open-data.s3.amazonaws.com/photos/353763950/medium.jpg,-18.2514833333,-69.1773866667,Parinacota,Arica y Parinacota
+201525634,89cab214-3d45-424c-98a4-9bac1d2ea0b7,https://inaturalist-open-data.s3.amazonaws.com/photos/355750421/medium.jpg,-18.2033069,-69.2683358,Parinacota,Arica y Parinacota
+201680906,bdd3f4fc-cbbb-4cde-ac96-d4bf3ecef775,https://inaturalist-open-data.s3.amazonaws.com/photos/356054002/medium.jpeg,-23.3615369575,-65.0094367948,Valle Grande,Jujuy
+201685991,d536f689-eab1-455a-8aea-e3177ebf473b,https://inaturalist-open-data.s3.amazonaws.com/photos/356061245/medium.jpeg,-23.372297,-65.05214,Valle Grande,Jujuy
+201686000,058b7244-4b40-4cf0-a771-7ab914034f4f,https://inaturalist-open-data.s3.amazonaws.com/photos/356061933/medium.jpeg,-23.303441,-65.023583,Valle Grande,Jujuy
+201686025,09d9d03d-0b4b-4bed-b900-4987bfb7b5a6,https://inaturalist-open-data.s3.amazonaws.com/photos/356062421/medium.jpeg,-23.303441,-65.023583,Valle Grande,Jujuy
+201703898,c7db4722-1ff4-443a-84c4-ae09514bd363,https://inaturalist-open-data.s3.amazonaws.com/photos/356097761/medium.jpeg,-23.303441,-65.023583,Valle Grande,Jujuy
+202341756,58cab88f-f110-41de-a59c-94560b537a85,https://inaturalist-open-data.s3.amazonaws.com/photos/357342713/medium.jpeg,-18.1677777778,-69.4294444444,Parinacota,Arica y Parinacota
+202520649,699f47c2-60c6-4cbd-9fff-045c0a54f873,https://inaturalist-open-data.s3.amazonaws.com/photos/357687766/medium.jpg,-18.1703833333,-69.4301216667,Parinacota,Arica y Parinacota
+204087702,39a0b920-3e73-4e78-883e-df5bf53bd00c,https://inaturalist-open-data.s3.amazonaws.com/photos/360668659/medium.jpeg,-14.5849189862,-74.4212904408,Lucanas,Ayacucho
+204178485,4e38000f-49d8-4af6-be3e-c29f0879dcb0,https://inaturalist-open-data.s3.amazonaws.com/photos/360855366/medium.jpeg,-23.2948778,-65.0216268,Valle Grande,Jujuy
+204648271,ae7d2e43-18cc-488d-897a-c21a232f4772,https://inaturalist-open-data.s3.amazonaws.com/photos/361750482/medium.jpeg,-22.2033962651,-65.2112569973,Santa Victoria,Salta
+204837777,c8fb66b4-5bac-4d8f-98f0-9f52b51596af,https://inaturalist-open-data.s3.amazonaws.com/photos/362103002/medium.jpg,-16.6085615598,-68.8716657915,Ingavi,La Paz
+204837943,128f1081-27d6-41fd-9f0d-c035130736d4,https://inaturalist-open-data.s3.amazonaws.com/photos/362103405/medium.jpg,-16.6098537837,-68.8729136427,Ingavi,La Paz
+205092772,3e5e4e03-a85b-44bb-a2f0-d6f9d4b3ca01,https://inaturalist-open-data.s3.amazonaws.com/photos/362591078/medium.jpg,-21.7172416667,-67.527725,Nor Lípez,Potosí
+205991950,18976fa5-8e51-4e77-ab50-ffc6d9e94726,https://inaturalist-open-data.s3.amazonaws.com/photos/364239494/medium.jpeg,-22.593011717,-68.0550054832,El Loa,Antofagasta
+206175940,0c552d3a-6423-4a2c-80f2-63e37ba659f1,https://inaturalist-open-data.s3.amazonaws.com/photos/364634174/medium.jpg,-22.578661401,-68.093634655,El Loa,Antofagasta
+206175942,e6b6a668-1f8d-42f5-8981-ddcd7cae9b6f,https://inaturalist-open-data.s3.amazonaws.com/photos/364634202/medium.jpg,-22.467263388,-68.1720463384,El Loa,Antofagasta
+206175945,8ece93c3-04fc-4545-b1ee-e6c16a0a052a,https://inaturalist-open-data.s3.amazonaws.com/photos/364634242/medium.jpg,-22.4079043062,-68.1605058676,El Loa,Antofagasta
+206175946,9fa97bc2-8eac-44aa-a04c-7182e585674a,https://inaturalist-open-data.s3.amazonaws.com/photos/364634228/medium.jpg,-22.4221340481,-68.00694475,El Loa,Antofagasta
+206175949,c2ab43fb-d59e-47d1-928e-1f479604c848,https://inaturalist-open-data.s3.amazonaws.com/photos/364634279/medium.jpg,-22.5189711066,-68.1733326042,El Loa,Antofagasta
+208250315,32749800-b2b0-405c-ac68-c6ec7fa6d483,https://inaturalist-open-data.s3.amazonaws.com/photos/368440477/medium.jpeg,-22.3944908333,-65.2701822222,Santa Victoria,Salta
+208271953,c293d6e0-fc26-49d8-9972-8d22fc22a5e9,https://inaturalist-open-data.s3.amazonaws.com/photos/368483980/medium.jpeg,-20.0512492317,-68.0101937056,Daniel Campos,Potosí
+208812499,513d9114-e92a-4e8b-9bac-3929c7912a17,https://inaturalist-open-data.s3.amazonaws.com/photos/369478445/medium.jpeg,-24.1337530556,-66.4392327778,Susques,Jujuy
+209779652,c51969da-47f2-425a-926b-5f5ef4afb339,https://static.inaturalist.org/photos/371162093/medium.jpeg,-16.55386675,-68.07213712,Pedro Domingo Murillo,La Paz
+209783537,ec1f4e41-58c4-447d-97dc-aad26195368f,https://static.inaturalist.org/photos/371168139/medium.jpeg,-16.4297573667,-68.1451479167,Pedro Domingo Murillo,La Paz
+210358708,88a640c5-4b34-461c-a89e-eb0d579f28cf,https://static.inaturalist.org/photos/372063744/medium.jpg,-18.1913164193,-69.2467887361,Parinacota,Arica y Parinacota
+210565912,28f8705c-37e1-433e-9c47-fdd79ab32133,https://static.inaturalist.org/photos/372424922/medium.jpg,-17.8421533333,-69.3179166667,Parinacota,Arica y Parinacota
+210788669,5121cc13-2d23-48c6-b489-0dc994c16f0a,https://static.inaturalist.org/photos/372767737/medium.jpg,-18.1952070589,-69.25949433,Parinacota,Arica y Parinacota
+211053719,a2cd1285-1bb1-4564-af40-e392551609ab,https://inaturalist-open-data.s3.amazonaws.com/photos/373195655/medium.jpeg,-16.5798550937,-68.1744578853,Pedro Domingo Murillo,La Paz
+211472833,c2ecb209-0256-4e59-9e6a-a23613b8cb89,https://inaturalist-open-data.s3.amazonaws.com/photos/373873796/medium.jpeg,-19.7087230681,-65.8525619506,Antonio Quijarro,Potosí
+211858344,27a9060d-f203-43eb-b3c9-8a107f6d639c,https://static.inaturalist.org/photos/374461390/medium.jpeg,-16.4344555556,-68.1512277778,Pedro Domingo Murillo,La Paz
+212704654,8a1b7665-2ad0-4fad-a274-78c11174cafb,https://inaturalist-open-data.s3.amazonaws.com/photos/375863063/medium.jpeg,-17.0662,-70.4598694444,Mariscal Nieto,Moquegua
+212741796,4fd11a33-d01c-44c7-a19b-03baa80381fc,https://static.inaturalist.org/photos/375953424/medium.jpeg,-16.42975999,-68.14521121,Pedro Domingo Murillo,La Paz
+212774608,8550ccf2-0582-4a68-a1b3-b099c2284812,https://inaturalist-open-data.s3.amazonaws.com/photos/376012698/medium.jpeg,-20.3846702575,-66.7158660886,Antonio Quijarro,Potosí
+213005021,531bb6fd-e4ed-4ee0-a13f-570de7da3436,https://inaturalist-open-data.s3.amazonaws.com/photos/376414919/medium.jpeg,-23.2369563889,-65.0453863889,Humahuaca,Jujuy
+214897367,c2b89e02-3b20-4235-adcd-5b9efcd8a247,https://static.inaturalist.org/photos/379888012/medium.jpg,-13.8734416667,-71.2952116667,Canchis,Cusco
+215522137,81e1cc8d-2bc6-486e-ab5b-edb4347fcc28,https://inaturalist-open-data.s3.amazonaws.com/photos/381049645/medium.jpg,-20.5018332406,-68.7534437803,Iquique,Tarapacá
+216863102,dc1f9e03-ccd6-4c8b-8c0f-f31adcf6dc07,https://inaturalist-open-data.s3.amazonaws.com/photos/383573938/medium.jpg,-18.164301112,-69.2679538654,Parinacota,Arica y Parinacota
+217870442,39904db9-230e-46e5-a920-500293d1c862,https://inaturalist-open-data.s3.amazonaws.com/photos/385481487/medium.jpeg,-21.3589945,-68.0264557997,Nor Lípez,Potosí
+218054877,ec90fc06-4d26-4d14-97ec-366bd680f34c,https://inaturalist-open-data.s3.amazonaws.com/photos/385828942/medium.jpeg,-21.9252022997,-68.0060751997,Nor Lípez,Potosí
+220052462,bf01b902-b469-40f2-887a-2551fc1748f7,https://inaturalist-open-data.s3.amazonaws.com/photos/389558183/medium.jpg,-15.7745906135,-71.5585075593,Caylloma,Arequipa
+220739989,dbf27bd2-398c-4598-80bf-72e889d93dfd,https://static.inaturalist.org/photos/390846341/medium.jpeg,-16.4243711168,-71.2554312497,Arequipa,Arequipa
+221000067,56411372-8f13-492d-890e-1f09bbc3b21f,https://inaturalist-open-data.s3.amazonaws.com/photos/391333693/medium.jpeg,-18.116394195,-68.9436636632,Sajama,Oruro
+222990023,d179cb13-fc66-487a-ad9b-0eec81eff73e,https://static.inaturalist.org/photos/395058957/medium.jpg,-18.8719533333,-69.194145,Arica,Arica y Parinacota
+224310991,953b85f7-822f-4201-a8c0-c49afffb9836,https://inaturalist-open-data.s3.amazonaws.com/photos/397545258/medium.jpeg,-18.251675209,-69.1769303195,Parinacota,Arica y Parinacota
+224491235,2865e1d1-e772-4215-9a14-c028a7c8110c,https://inaturalist-open-data.s3.amazonaws.com/photos/397885879/medium.jpeg,-18.1680291379,-69.4301001728,Parinacota,Arica y Parinacota
+225495139,5dea4646-c864-48cb-9154-e11a7ad6cd52,https://inaturalist-open-data.s3.amazonaws.com/photos/399803909/medium.jpg,-15.752995,-71.583175,Caylloma,Arequipa
+226593332,54aa27ae-2a3e-4cad-8aad-f1d4257746df,https://inaturalist-open-data.s3.amazonaws.com/photos/401888667/medium.jpg,-21.7266033333,-67.524795,Nor Lípez,Potosí
+226619534,f6b28e48-829a-4b3a-bbd9-104e0f93ddae,https://inaturalist-open-data.s3.amazonaws.com/photos/401931436/medium.jpg,-23.1659418367,-65.0502194821,Humahuaca,Jujuy
+228326425,21740be0-81d4-4fa3-8d30-5615a6162b3d,https://inaturalist-open-data.s3.amazonaws.com/photos/405158426/medium.jpg,-18.20266025,-69.2665933889,Parinacota,Arica y Parinacota
+228938259,ec899f68-238b-481f-8939-c13424cda657,https://static.inaturalist.org/photos/406328114/medium.jpeg,-16.3833431959,-71.3179642707,Arequipa,Arequipa
+229137244,c3c9d4f6-181d-4447-98f8-c199c142be12,https://inaturalist-open-data.s3.amazonaws.com/photos/406696623/medium.jpeg,-18.2513252999,-69.1774196219,Parinacota,Arica y Parinacota
+229137248,32c4f153-fd35-41e2-9b64-860406094fc4,https://inaturalist-open-data.s3.amazonaws.com/photos/406696733/medium.jpeg,-18.2513724001,-69.1773860781,Parinacota,Arica y Parinacota
+229141372,2604841e-8e3c-429b-8377-77c68b3908ce,https://inaturalist-open-data.s3.amazonaws.com/photos/406705298/medium.jpeg,-18.1681733471,-69.4298654075,Parinacota,Arica y Parinacota
+230066367,d9ae0053-ff0a-4332-96cb-92b9cf612e28,https://static.inaturalist.org/photos/408464762/medium.jpeg,-21.0654516667,-65.4884433333,Nor Chichas,Potosí
+230363553,2a034072-dc28-4a3a-b1ae-67ca8fb59c92,https://inaturalist-open-data.s3.amazonaws.com/photos/409024003/medium.jpg,-22.3742409861,-68.0307107514,El Loa,Antofagasta
+230593723,718d69f4-fb22-47b0-be96-06f5553ef8eb,https://inaturalist-open-data.s3.amazonaws.com/photos/409457111/medium.jpeg,-19.55075225,-65.89200093,Tomás Frías,Potosí
+230908367,4eb25568-9708-4c35-b581-e5b3f7029641,https://inaturalist-open-data.s3.amazonaws.com/photos/410048019/medium.jpeg,-15.600616767,-72.5130654126,Castilla,Arequipa
+231529866,a6a1f80b-5f55-430d-9449-70741905b1cb,https://static.inaturalist.org/photos/411272485/medium.jpeg,-21.06552865,-65.4885807167,Nor Chichas,Potosí
+231726647,c2760c5e-6302-42cd-8055-78a4ac91932c,https://static.inaturalist.org/photos/411604422/medium.jpeg,-21.0654959833,-65.4879377139,Nor Chichas,Potosí
+231729492,0f576b2d-eedd-40fa-a8aa-32481169a740,https://static.inaturalist.org/photos/411609316/medium.jpeg,-21.0585038139,-65.48320355,Nor Chichas,Potosí
+231831153,fa5d3ee4-a775-4dc7-9c1a-1de0b14c9573,https://static.inaturalist.org/photos/411801098/medium.jpeg,-21.0444276667,-65.4813826833,Nor Chichas,Potosí
+231835083,0a5dc2ff-8a88-4b1e-991b-3566d4e0789f,https://static.inaturalist.org/photos/411808229/medium.jpeg,-21.0316394167,-65.4721626972,Nor Chichas,Potosí
+232409992,cc3437e3-9f25-400c-8f24-d803970fb9da,https://static.inaturalist.org/photos/412893777/medium.jpeg,-21.0186267167,-65.4672862833,Nor Chichas,Potosí
+232691960,e66f0c8e-e0a4-4abc-867c-1a84d132f959,https://static.inaturalist.org/photos/413433476/medium.jpeg,-21.0147562167,-65.4634013,Nor Chichas,Potosí
+232700767,b58cbb25-81eb-4e4b-a126-1d0d7d04898b,https://static.inaturalist.org/photos/413449917/medium.jpeg,-21.0178296167,-65.4597334639,Nor Chichas,Potosí
+232710749,e84fe080-691a-4c2b-828e-1812d3f71b26,https://static.inaturalist.org/photos/413468551/medium.jpeg,-21.0382286472,-65.4640824667,Nor Chichas,Potosí
+234421113,066999be-edcd-47d1-aeb4-1a63a5b03318,https://inaturalist-open-data.s3.amazonaws.com/photos/416738761/medium.jpeg,-21.4641383333,-67.8476116667,Nor Lípez,Potosí
+235128878,68a69aa2-f911-46f7-99ff-f7678e8062d1,https://static.inaturalist.org/photos/418259924/medium.jpeg,-21.2346397806,-65.4878070972,Sud Chichas,Potosí
+235854648,3767c17f-8b76-4d3b-a5cc-66cf97ea6283,https://inaturalist-open-data.s3.amazonaws.com/photos/419513097/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+235854653,4bc60e55-a587-4abf-9211-9d32550af018,https://inaturalist-open-data.s3.amazonaws.com/photos/419513101/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+235854654,c9e229a5-978c-4a4c-8602-a888a08953b0,https://inaturalist-open-data.s3.amazonaws.com/photos/419513109/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+235854655,90a43939-9648-4285-b622-7ae1056e90a2,https://inaturalist-open-data.s3.amazonaws.com/photos/419513120/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+235854656,734ab27c-ab0c-48f7-9d4e-8724e0728d70,https://inaturalist-open-data.s3.amazonaws.com/photos/419513110/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+235854665,f917f2b5-06f2-4ab7-bf1f-d0250d307b2f,https://inaturalist-open-data.s3.amazonaws.com/photos/419513286/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+235854666,7204dddd-aa9d-470e-96ee-6301dca8863d,https://inaturalist-open-data.s3.amazonaws.com/photos/419513302/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+235854688,54327aea-6470-4928-8075-f4f72764d849,https://inaturalist-open-data.s3.amazonaws.com/photos/419513382/medium.jpg,-16.9025402624,-70.3061712513,Candarave,Tacna
+236754556,1d415254-88d6-486d-a431-18ff4d910010,https://inaturalist-open-data.s3.amazonaws.com/photos/421236417/medium.jpg,-15.5679005531,-71.6147212614,Caylloma,Arequipa
+237733064,cf7a796a-173e-474e-9163-869beadc0d0f,https://static.inaturalist.org/photos/423131141/medium.jpeg,-21.2389746389,-65.4893855472,Sud Chichas,Potosí
+238523717,b26c16b1-70b8-4c78-b5e5-33fc6967ec27,https://inaturalist-open-data.s3.amazonaws.com/photos/424662389/medium.jpeg,-17.750808826,-69.7676628828,Parinacota,Arica y Parinacota
+238690288,8b5ded8c-cd81-4385-a4d7-c5e2c025c618,https://inaturalist-open-data.s3.amazonaws.com/photos/424977924/medium.jpg,-28.4610805556,-66.0352305556,Capayán,Catamarca
+240343135,bf3448f5-9558-42c6-9bae-84f12a13176c,https://inaturalist-open-data.s3.amazonaws.com/photos/428182405/medium.jpg,-15.7100269308,-71.5889131716,Caylloma,Arequipa
+241011340,216e2876-b332-4878-bc85-26e0e7194f85,https://inaturalist-open-data.s3.amazonaws.com/photos/429474552/medium.jpeg,-21.3585361111,-68.0279388889,Nor Lípez,Potosí
+241122641,7426927d-a7f1-4dbd-8f33-76675fef1660,https://inaturalist-open-data.s3.amazonaws.com/photos/429683501/medium.jpeg,-14.654341864,-73.1283266358,Aymaraes,Apurímac
+241179681,0720fd57-6fba-4151-abac-1a247bf50423,https://inaturalist-open-data.s3.amazonaws.com/photos/429799035/medium.jpeg,-19.6084726914,-69.0328740701,Iquique,Tarapacá
+241392456,5e57bd80-bfe2-495b-9fbf-341491f6de5a,https://inaturalist-open-data.s3.amazonaws.com/photos/430218098/medium.jpeg,-19.6074092791,-69.0240643546,Iquique,Tarapacá
+241554463,f7c5b43e-d662-4e41-8a26-490c4f88f1cd,https://inaturalist-open-data.s3.amazonaws.com/photos/430520749/medium.jpeg,-19.6072551516,-69.0241310745,Iquique,Tarapacá
+242156665,ee8636f8-0600-41b8-afbe-7428673678cc,https://static.inaturalist.org/photos/431679390/medium.jpeg,-18.2033069276,-69.2683358118,Parinacota,Arica y Parinacota
+243162614,9531e4ff-7194-440f-9424-cf477d4148fa,https://inaturalist-open-data.s3.amazonaws.com/photos/433558216/medium.jpeg,-19.8411072356,-67.6192912068,Ladislao Cabrera,Oruro
+243598081,38567fc1-8282-41ea-b9a1-856eda0a5bbd,https://inaturalist-open-data.s3.amazonaws.com/photos/434392438/medium.jpeg,-20.1818332348,-68.6975063928,Iquique,Tarapacá
+243903800,6ddbb595-ff2f-4595-b66c-0a19f5fabd34,https://inaturalist-open-data.s3.amazonaws.com/photos/434987447/medium.jpeg,-15.775295,-71.55648,Caylloma,Arequipa
+243904014,2de81bde-9cac-4adc-b59f-d156de6c69cb,https://inaturalist-open-data.s3.amazonaws.com/photos/434987829/medium.jpeg,-15.7755616593,-71.556555,Caylloma,Arequipa
+243904104,be0d3e31-0f8e-4e63-bdf7-5fd756e09ee8,https://inaturalist-open-data.s3.amazonaws.com/photos/434988071/medium.jpeg,-15.7755916593,-71.5565716667,Caylloma,Arequipa
+246532685,7819ee0b-074f-468e-b0a8-7b804809384e,https://inaturalist-open-data.s3.amazonaws.com/photos/440135968/medium.jpeg,-22.3972507103,-68.027843982,El Loa,Antofagasta
+246694961,8ce5853c-508f-4505-8e94-6e8fe63655df,https://static.inaturalist.org/photos/440453674/medium.jpeg,-22.3702579728,-68.171841786,El Loa,Antofagasta
+247174557,9ba2ee45-ca31-4659-a557-768d77b81d69,https://inaturalist-open-data.s3.amazonaws.com/photos/441400427/medium.jpeg,-21.35858,-68.0278778333,Nor Lípez,Potosí
+248079240,fb5c206e-2e45-49ac-8bbe-13b6b1fedb8a,https://inaturalist-open-data.s3.amazonaws.com/photos/443190465/medium.jpeg,-12.6701185501,-74.6755572182,Acobamba,Huancavelica
+248394511,2a45eb13-7240-4ff9-a65c-82afe9d13180,https://inaturalist-open-data.s3.amazonaws.com/photos/443816896/medium.jpg,-21.436717,-67.857433,Nor Lípez,Potosí
+248399453,6477e464-0cc4-4f3f-ac52-b03f3dd7acba,https://inaturalist-open-data.s3.amazonaws.com/photos/443827247/medium.jpg,-21.436033,-67.857567,Nor Lípez,Potosí
+248898165,65807630-404c-4b5d-a282-1f14b539b1db,https://inaturalist-open-data.s3.amazonaws.com/photos/444822993/medium.jpeg,-22.420197,-65.9928559,Rinconada,Jujuy
+248955117,dc87e914-2cb1-430a-af6b-a79078f173d9,https://inaturalist-open-data.s3.amazonaws.com/photos/444936073/medium.jpeg,-17.7650669112,-69.7628982738,Parinacota,Arica y Parinacota
+248963061,02e281b3-62d6-4ae8-96d6-6e6b3a1dc34f,https://static.inaturalist.org/photos/444951994/medium.jpeg,-13.8710466667,-71.32843,Quispicanchi,Cusco
+249233328,215cb4ea-d96c-48d2-98e9-628de1f1dd4b,https://static.inaturalist.org/photos/445487131/medium.jpeg,-21.3592166667,-68.0281528333,Nor Lípez,Potosí
+250165821,ac0759f8-58c5-4879-a15f-7cbc10a0f495,https://static.inaturalist.org/photos/447346800/medium.jpeg,-19.551865,-65.901885,Tomás Frías,Potosí
+250207307,4cef1b47-f1c3-4295-9d0f-efe096e668d0,https://static.inaturalist.org/photos/447429574/medium.jpeg,-22.2017333333,-65.2113283333,Santa Victoria,Salta
+250546446,069db722-62a9-4b28-90e1-a89120d1a7d2,https://inaturalist-open-data.s3.amazonaws.com/photos/448119627/medium.jpg,-21.4401,-65.414183,Sud Chichas,Potosí
+250548412,c5f8e953-d266-4ed7-8fc1-802adb4a04a7,https://inaturalist-open-data.s3.amazonaws.com/photos/448123299/medium.jpg,-21.4029,-65.35765,Sud Cinti,Chuquisaca
+250963591,b4b0741f-ed5d-40fa-af92-02e6c3cb32ee,https://inaturalist-open-data.s3.amazonaws.com/photos/448948934/medium.jpeg,-22.593865,-68.0609916667,El Loa,Antofagasta
+251067646,b7a9f93e-2ac0-455a-b87f-2b36710650b2,https://static.inaturalist.org/photos/449156856/medium.jpeg,-18.1689758712,-69.4315582406,Parinacota,Arica y Parinacota
+251082360,42bd5671-858d-4555-aed9-13309c47cfdc,https://static.inaturalist.org/photos/449185946/medium.jpeg,-18.2529866667,-69.1726216667,Parinacota,Arica y Parinacota
+251688618,f8b11e98-aa57-4ab8-986f-299fab60c5a2,https://inaturalist-open-data.s3.amazonaws.com/photos/450394063/medium.jpeg,-22.2020141457,-65.210913655,Santa Victoria,Salta
+251727579,deaf5e1a-8ade-4693-9ed0-da94e7e994c3,https://inaturalist-open-data.s3.amazonaws.com/photos/450470963/medium.jpg,-11.0371555556,-76.3954388889,Pasco,Pasco
+251867380,3da0363f-c414-4bc9-9d10-c5512ea2f491,https://static.inaturalist.org/photos/450756806/medium.jpeg,-18.0793138889,-69.0585694444,Sajama,Oruro
+252419785,347cec9c-8500-4d63-acc4-df72a49ad63f,https://inaturalist-open-data.s3.amazonaws.com/photos/451862040/medium.jpeg,-18.17047,-69.4302216667,Parinacota,Arica y Parinacota
+252419928,4d5d24ab-e201-47a1-8459-0fa089bd860f,https://inaturalist-open-data.s3.amazonaws.com/photos/451862201/medium.jpeg,-18.1705966667,-69.4299466667,Parinacota,Arica y Parinacota
+252552350,8e771204-6008-4fcf-b3e0-b84a3d3fe9af,https://static.inaturalist.org/photos/452121145/medium.jpeg,-16.5543638889,-68.673875,Ingavi,La Paz
+252748718,57c6478d-5d03-4e9c-9159-f2c8323fcde0,https://inaturalist-open-data.s3.amazonaws.com/photos/452452415/medium.jpeg,-24.27050661,-66.4571046787,Los Andes,Salta
+252748724,03d4929c-3dbb-451c-a21f-c15b0fa1820c,https://inaturalist-open-data.s3.amazonaws.com/photos/452452689/medium.jpeg,-24.2670529135,-66.4565317508,Los Andes,Salta
+252786655,6d09d024-f78d-4b4d-bf51-03d3dd7881c4,https://inaturalist-open-data.s3.amazonaws.com/photos/452557587/medium.png,-22.0519254,-67.8832848,Sud Lípez,Potosí
+253244734,fd476a92-6f1e-477e-bfec-fda3927727ea,https://static.inaturalist.org/photos/453408104/medium.jpeg,-18.1705966667,-69.4299616667,Parinacota,Arica y Parinacota
+253549531,3047687a-90a0-42e0-bae7-c59da55436bd,https://static.inaturalist.org/photos/454012782/medium.jpeg,-22.5842966667,-68.0450445,El Loa,Antofagasta
+253564159,6e50a8d9-ec78-4dfc-ba89-d6dee446a2ac,https://inaturalist-open-data.s3.amazonaws.com/photos/454041696/medium.jpeg,-16.6102003631,-68.8749081969,Ingavi,La Paz
+253892646,0778d68d-cd1b-468e-a8ef-d180efbece96,https://inaturalist-open-data.s3.amazonaws.com/photos/454669115/medium.jpeg,-22.1123029821,-65.7679393322,Yavi,Jujuy
+253993887,730c8b5f-9399-4f9d-9273-519f1ce976fb,https://static.inaturalist.org/photos/454864061/medium.jpeg,-18.2518104,-69.1766987,Parinacota,Arica y Parinacota
+254916611,6f08bf25-6c21-463a-97b2-b0d9ee2eea89,https://inaturalist-open-data.s3.amazonaws.com/photos/456715237/medium.jpg,-23.6936168997,-65.6478644997,Tumbaya,Jujuy
+254916832,9869529e-17fb-423b-a20b-4ba6a07c64f6,https://inaturalist-open-data.s3.amazonaws.com/photos/456715235/medium.jpg,-21.5064743056,-65.0164631944,Eustaquio Méndez,Tarija
+254924508,864eff4b-abcd-4834-a82b-ffcfd9f41c16,https://inaturalist-open-data.s3.amazonaws.com/photos/456726723/medium.jpg,-21.7640740556,-64.9927815556,Cercado,Tarija
+254927129,65ddf890-163c-45e1-b47d-79b7f1577c1c,https://inaturalist-open-data.s3.amazonaws.com/photos/456731626/medium.jpg,-21.6152965556,-66.3389563056,Sud Lípez,Potosí
+254927159,f236557d-4407-4800-a0b8-0b943c7fd88a,https://inaturalist-open-data.s3.amazonaws.com/photos/456731941/medium.jpg,-21.6396127839,-66.3412258646,Sud Lípez,Potosí
+254927168,01153ee6-71f9-40a0-984c-13fbd9c5d3ea,https://inaturalist-open-data.s3.amazonaws.com/photos/456732019/medium.jpg,-21.6390935833,-66.3412584444,Sud Lípez,Potosí
+254927169,69240cf8-3942-44a4-8a6d-b09c34e5ee9d,https://inaturalist-open-data.s3.amazonaws.com/photos/456732029/medium.jpg,-21.6450484444,-66.3469847778,Sud Lípez,Potosí
+254927171,2dd54047-d4ba-4dd2-bda3-bd3c2b47a441,https://inaturalist-open-data.s3.amazonaws.com/photos/456732065/medium.jpg,-21.6449068056,-66.3475932778,Sud Lípez,Potosí
+254931901,0d45011e-714a-48ac-bc7e-3e0ca1843d49,https://inaturalist-open-data.s3.amazonaws.com/photos/456737993/medium.jpg,-18.0567242778,-69.0382170833,Sajama,Oruro
+254931908,ff6f8ab8-e5c3-4ba6-8cb2-795f05f5e484,https://inaturalist-open-data.s3.amazonaws.com/photos/456738151/medium.jpg,-18.0535805833,-69.0471336667,Sajama,Oruro
+255116557,4ca803bc-1485-48a3-bb80-aec021dee615,https://inaturalist-open-data.s3.amazonaws.com/photos/457116188/medium.jpg,-24.4516116667,-66.2099616667,La Poma,Salta
+255607901,040581d2-9188-4492-b345-14e25a573ff4,https://inaturalist-open-data.s3.amazonaws.com/photos/458100600/medium.jpeg,-21.5947087711,-67.5967673957,Nor Lípez,Potosí
+255685633,047a90da-6ac0-4bf7-8590-11744ae43f59,https://inaturalist-open-data.s3.amazonaws.com/photos/458261041/medium.jpeg,-22.3574324834,-68.0227960646,El Loa,Antofagasta
+255955670,0702a916-be9b-4815-a7cb-5d6428e12a2b,https://static.inaturalist.org/photos/458795841/medium.jpg,-22.3770027495,-68.0323183858,El Loa,Antofagasta
+255984293,f4a1c946-392d-45d9-932d-212e5936777e,https://inaturalist-open-data.s3.amazonaws.com/photos/458855773/medium.jpg,-18.1690194444,-69.4926722222,Parinacota,Arica y Parinacota
+257186031,202317bd-d39f-4bcd-b08f-fe487b9ade07,https://inaturalist-open-data.s3.amazonaws.com/photos/461308064/medium.jpeg,-21.3585749722,-68.0265909722,Nor Lípez,Potosí
+257735898,14d950cd-b779-44fb-9e01-b25ab564049b,https://inaturalist-open-data.s3.amazonaws.com/photos/462391280/medium.jpg,-18.1704281997,-69.4302006,Parinacota,Arica y Parinacota
+258368569,a304b1f9-c0d7-41da-ba06-7864935461e3,https://static.inaturalist.org/photos/463537949/medium.jpeg,-19.4560116722,-66.4404623955,Antonio Quijarro,Potosí
+258430597,cf4ade21-7cfd-4226-94a2-976b8a0c5f90,https://inaturalist-open-data.s3.amazonaws.com/photos/463663427/medium.jpg,-22.2187880559,-65.2297912189,Santa Victoria,Salta
+258430683,7b8fd45b-5abc-4b9b-8f12-57b509cf9055,https://inaturalist-open-data.s3.amazonaws.com/photos/463664041/medium.jpg,-22.2014777783,-65.210975,Santa Victoria,Salta
+258572561,6f33e419-c653-4f8d-a040-78f24985ec9a,https://inaturalist-open-data.s3.amazonaws.com/photos/463956590/medium.jpeg,-22.2029910997,-65.2108972997,Santa Victoria,Salta
+258732059,9cecaeae-af4c-4192-88eb-898719934051,https://static.inaturalist.org/photos/464284875/medium.jpeg,-18.057572,-68.9433939722,Sajama,Oruro
+258771118,caa476b9-fd45-446f-bfe3-bc20abc6fee1,https://inaturalist-open-data.s3.amazonaws.com/photos/464360832/medium.jpg,-22.6425106986,-67.1545338467,Sud Lípez,Potosí
+259048637,0e880d83-2688-42b0-960b-fd68e478e378,https://inaturalist-open-data.s3.amazonaws.com/photos/464928383/medium.jpg,-21.535,-67.5796966667,Nor Lípez,Potosí
+259360546,1844fa07-4ba7-4a00-9b8f-f1f27aeb1463,https://static.inaturalist.org/photos/465561510/medium.jpg,-18.0207528333,-68.93595,Sajama,Oruro
+259360588,317349c4-436e-414d-84f6-abf3157f1415,https://static.inaturalist.org/photos/465561619/medium.jpg,-18.0208916667,-68.936255,Sajama,Oruro
+259420873,42183115-0daa-45f5-9bf5-7418348a4c02,https://inaturalist-open-data.s3.amazonaws.com/photos/465685503/medium.jpeg,-18.2517416667,-69.1773277778,Parinacota,Arica y Parinacota
+259521991,24dbd9e7-10e9-4f8c-8a83-e28a79d5b195,https://inaturalist-open-data.s3.amazonaws.com/photos/465882586/medium.jpg,-15.6887583537,-71.5883387575,Caylloma,Arequipa
+259596423,25f6524e-633e-4fe7-bdc3-2a24d4510065,https://static.inaturalist.org/photos/466032372/medium.jpeg,-19.447754899,-69.6100981137,Iquique,Tarapacá
+260087462,21ac32d9-cfa3-4b66-8ed6-1cb87b8d9ccd,https://inaturalist-open-data.s3.amazonaws.com/photos/467006032/medium.jpeg,-21.7042715419,-66.469911196,Sud Lípez,Potosí
+260127183,eb41681f-c751-4599-b55a-68fa078b6c9c,https://static.inaturalist.org/photos/467085796/medium.jpeg,-22.5388111111,-67.6504305556,Sud Lípez,Potosí
+260325278,e6a38bd8-e73c-4fdd-9d4a-9f7b9fa3ee2f,https://inaturalist-open-data.s3.amazonaws.com/photos/467485273/medium.jpg,-26.789875,-65.6914533333,Tafí del Valle,Tucumán
+260327562,3d060f56-18ae-4691-9d89-27dcb52fb61e,https://static.inaturalist.org/photos/467490427/medium.jpg,-26.2262296211,-67.0613745042,Antofagasta de la Sierra,Catamarca
+260339874,9f7df254-249e-4168-acd7-1c34f449c3c1,https://inaturalist-open-data.s3.amazonaws.com/photos/467512714/medium.jpeg,-16.9595527778,-68.4276305556,Pacajes,La Paz
+260701056,f331b12e-2ba1-4269-ac07-1044481760ca,https://inaturalist-open-data.s3.amazonaws.com/photos/468225214/medium.jpg,-21.9258533333,-68.0053722167,Nor Lípez,Potosí
+260994537,b7e9097e-b754-4138-9fe1-8f9b48714c12,https://static.inaturalist.org/photos/468806910/medium.jpeg,-21.46405035,-67.84754973,Nor Lípez,Potosí
+261502789,38b61671-2df1-4617-a336-b5a3e88a50ac,https://inaturalist-open-data.s3.amazonaws.com/photos/469813464/medium.jpg,-24.1031388883,-66.3549111117,Los Andes,Salta
+261749470,d101bc42-ec94-4c70-9a83-05d196ee4025,https://inaturalist-open-data.s3.amazonaws.com/photos/470302125/medium.jpg,-23.197894445,-65.1927277783,Humahuaca,Jujuy
+261749471,d5abfbc9-1eaf-4ef7-8608-34832dae68bd,https://inaturalist-open-data.s3.amazonaws.com/photos/470302148/medium.jpg,-23.1978888883,-65.1927111117,Humahuaca,Jujuy
+263056632,9c770682-022a-42be-a7ce-ea40ce8c4a8d,https://inaturalist-open-data.s3.amazonaws.com/photos/472507964/medium.jpg,-22.3746866667,-68.0305333333,El Loa,Antofagasta
+264052871,c600bef0-e9d9-4c7e-be73-3e34da7c6474,https://inaturalist-open-data.s3.amazonaws.com/photos/474472462/medium.jpeg,-15.6990070342,-71.5905151367,Caylloma,Arequipa
+264311502,693956a3-fb11-40eb-9a0e-deff56362ce1,https://inaturalist-open-data.s3.amazonaws.com/photos/474757781/medium.jpg,-20.4719911084,-66.8314084219,Antonio Quijarro,Potosí
+265055981,8a8d2482-e7a6-4592-b452-3e70862d8c0c,https://inaturalist-open-data.s3.amazonaws.com/photos/476029950/medium.jpeg,-18.2016651652,-69.5587941697,Parinacota,Arica y Parinacota
+265991225,99fd8ce7-35e1-42ea-aba4-ca73cc45a220,https://inaturalist-open-data.s3.amazonaws.com/photos/477865270/medium.jpg,-21.9429666667,-67.6240916667,Nor Lípez,Potosí
+268048279,fe4ca53d-d5aa-4d63-a191-d73100da6f95,https://inaturalist-open-data.s3.amazonaws.com/photos/481775402/medium.jpeg,-22.3471469879,-68.0263748169,El Loa,Antofagasta
+268048282,f503963d-5dfc-475e-a4fa-7cd84240b43d,https://inaturalist-open-data.s3.amazonaws.com/photos/481775406/medium.jpeg,-22.3471450806,-68.0263824463,El Loa,Antofagasta
+268612652,34af6b61-1c68-4dcf-8399-42d6acc912ee,https://inaturalist-open-data.s3.amazonaws.com/photos/483044222/medium.jpeg,-21.6270771027,-68.0921554565,Nor Lípez,Potosí
+269208649,aa58546c-dc15-4db2-8f98-b33a63d700b9,https://inaturalist-open-data.s3.amazonaws.com/photos/484007745/medium.jpeg,-29.2440974,-71.4603626,Elqui,Coquimbo
+269279454,a862f4d1-e23e-44dd-a4fc-73b67222052c,https://inaturalist-open-data.s3.amazonaws.com/photos/484147834/medium.jpeg,-21.2684863614,-67.227993831,Nor Lípez,Potosí
+269583589,66eba192-be37-4cc7-9bd1-174a42dc27ab,https://inaturalist-open-data.s3.amazonaws.com/photos/484731596/medium.jpg,-17.3816633333,-69.4355383333,Pacajes,La Paz
+270505096,70ddd792-e515-486f-bc3d-3b8b9384036f,https://inaturalist-open-data.s3.amazonaws.com/photos/332224218/medium.jpeg,-28.174691,-66.003536,Ambato,Catamarca
+270818279,bb063930-eb29-47f9-8bfd-32d640cd6c19,https://static.inaturalist.org/photos/487088050/medium.jpg,-19.4661116667,-67.4268333333,Ladislao Cabrera,Oruro
+270907938,df9da7ac-e9db-4e31-8fb3-1d16504dec53,https://inaturalist-open-data.s3.amazonaws.com/photos/487252389/medium.jpeg,-21.4360357997,-67.8572678,Nor Lípez,Potosí
+271490527,462c9440-e350-46b2-b875-122d81ecab2f,https://inaturalist-open-data.s3.amazonaws.com/photos/488352715/medium.jpeg,-16.21107862,-71.4748718863,Arequipa,Arequipa
+272359250,ca4eef6a-98f8-4b00-be28-069f5554d50b,https://static.inaturalist.org/photos/489995524/medium.jpeg,-17.7431049167,-69.5615463056,Parinacota,Arica y Parinacota
+272707864,9ee68743-d6db-4761-a126-8893bd1b8b28,https://inaturalist-open-data.s3.amazonaws.com/photos/490623921/medium.jpeg,-23.3463110808,-64.9924364162,Valle Grande,Jujuy
+272769338,70493ecc-6660-4768-9c05-12cfda33de27,https://inaturalist-open-data.s3.amazonaws.com/photos/490737779/medium.jpeg,-22.7662868351,-65.7182689397,Cochinoca,Jujuy
+273253254,7a11f043-afeb-4b32-b7a0-11a8b44f0e5d,https://static.inaturalist.org/photos/493195122/medium.jpeg,-15.7549866667,-71.5516416667,Caylloma,Arequipa
+273253813,ad8cb14a-2e94-49a4-93a7-70bd9353a0bc,https://static.inaturalist.org/photos/493210896/medium.jpeg,-15.7527583251,-71.5817283466,Caylloma,Arequipa
+273289122,65d8b4f3-22ae-4179-8af3-462baef1f220,https://inaturalist-open-data.s3.amazonaws.com/photos/491551805/medium.jpeg,-19.5506756656,-65.8797194436,Tomás Frías,Potosí
+273508238,ecec71ba-f269-407c-a586-71b1c2534244,https://inaturalist-open-data.s3.amazonaws.com/photos/491907588/medium.jpeg,-19.5506766134,-65.8797194436,Tomás Frías,Potosí
+273814961,2e0ad1de-24ff-4047-a6d3-7e9b3a3ce5da,https://static.inaturalist.org/photos/492373890/medium.jpg,-21.3584833333,-68.0278555556,Nor Lípez,Potosí
+274060868,a9f1528b-8220-4e7a-a16b-2bbab2681ce7,https://inaturalist-open-data.s3.amazonaws.com/photos/492763341/medium.jpeg,-18.20392,-68.9808233333,Sajama,Oruro
+274667459,05349e20-ac34-4ca1-aa9c-925169617580,https://inaturalist-open-data.s3.amazonaws.com/photos/493731145/medium.jpeg,-19.5944591146,-65.7705568895,Tomás Frías,Potosí
+274907806,6bcd6fa5-b7d9-43bc-ac0e-56a04050a0cb,https://inaturalist-open-data.s3.amazonaws.com/photos/494102888/medium.jpeg,-17.97644496,-67.01669091,Cercado,Oruro
+274977083,74bf6386-e5dd-484b-af89-81c0277c8cbe,https://inaturalist-open-data.s3.amazonaws.com/photos/494214305/medium.jpeg,-18.1963298,-67.0123907,Pantaleón Dalence,Oruro
+275131215,91521f28-b7d3-4cdb-a1c5-3d2fc2ec15d6,https://inaturalist-open-data.s3.amazonaws.com/photos/494456649/medium.jpeg,-15.88825,-68.9582361111,Eliodoro Camacho,La Paz
+275776142,9eeaafc0-9e68-413f-8b29-4d232ae4442a,https://inaturalist-open-data.s3.amazonaws.com/photos/495445105/medium.jpeg,-18.09964425,-69.03116524,Sajama,Oruro
+275776628,f8317707-e16c-4a37-8357-7c10403fb0e6,https://inaturalist-open-data.s3.amazonaws.com/photos/495432033/medium.jpeg,-17.950378254,-67.1211715043,Cercado,Oruro
+275827814,cb267572-7b4a-42bf-b3e8-558d0f8a29c4,https://static.inaturalist.org/photos/495506098/medium.jpeg,-18.047805,-68.9346883333,Sajama,Oruro
+275897388,1b0621af-9a58-494e-9363-f870024c8794,https://inaturalist-open-data.s3.amazonaws.com/photos/495605869/medium.jpeg,-18.205865713,-69.0326900035,Sajama,Oruro
+276013517,9961664e-49a7-44c2-9b0f-564e53b6a1d2,https://inaturalist-open-data.s3.amazonaws.com/photos/495779096/medium.jpeg,-18.7013527778,-69.4044027778,Arica,Arica y Parinacota
+276114232,c0707aa9-4bdb-412e-aca3-db32a6ddaba6,https://static.inaturalist.org/photos/495934270/medium.jpeg,-18.1062092,-68.9813434,Sajama,Oruro
+276393776,42ad3e5b-d7ec-4316-8efe-bc7d8e38f244,https://static.inaturalist.org/photos/496366823/medium.jpg,-18.1003822322,-69.0294958654,Sajama,Oruro
+276633519,ad8a5af6-de34-47d3-a038-ec8580374144,https://inaturalist-open-data.s3.amazonaws.com/photos/496760721/medium.jpeg,-18.2792233,-67.12095184,Cercado,Oruro
+276971520,8d6fb89e-6bcc-43a6-bac7-a24d1c0b483e,https://inaturalist-open-data.s3.amazonaws.com/photos/497345761/medium.jpg,-21.3515416667,-68.0304805,Nor Lípez,Potosí
+277369820,04d01951-e451-40c4-8de7-f81394ffe005,https://inaturalist-open-data.s3.amazonaws.com/photos/498047051/medium.jpg,-19.5371434931,-65.8143041377,Tomás Frías,Potosí
+278974990,f52550c3-61b9-4ea2-9cc9-ad9bbb92b8ad,https://inaturalist-open-data.s3.amazonaws.com/photos/500940360/medium.jpg,-20.9375972043,-68.824115652,Iquique,Tarapacá
+279084403,2adb8eed-e810-4b15-85ce-4a3fe43eb0ca,https://static.inaturalist.org/photos/501140011/medium.jpg,-15.774575,-71.5585166667,Caylloma,Arequipa
+279497722,59e499c9-191b-46a1-963b-5516f2a5be46,https://inaturalist-open-data.s3.amazonaws.com/photos/501901951/medium.jpeg,-11.5724683472,-76.3398494571,Huarochiri,Lima
+279958341,7bb1e19f-1523-4c5d-af70-8e987883a302,https://inaturalist-open-data.s3.amazonaws.com/photos/502761500/medium.jpeg,-23.5802951181,-65.343638602,Tilcara,Jujuy
+281222765,be965f7c-794d-4530-a1a0-b26db7cc1a43,https://inaturalist-open-data.s3.amazonaws.com/photos/505162003/medium.jpg,-16.3792017462,-71.4149308205,Arequipa,Arequipa
+282523744,d1d86f3f-92a1-44f5-917a-53a590e050b0,https://inaturalist-open-data.s3.amazonaws.com/photos/507592173/medium.jpg,-22.1796162127,-67.4219188124,Sud Lípez,Potosí
+283509028,6e11a07f-49c8-4930-9160-633d384aa341,https://inaturalist-open-data.s3.amazonaws.com/photos/509433706/medium.jpg,-16.4037519391,-71.297080256,Arequipa,Arequipa
+284388681,c2563068-88df-4db8-baa1-6e65fb95804f,https://static.inaturalist.org/photos/511083688/medium.jpg,-20.9697761389,-68.7973632778,Iquique,Tarapacá
+284425525,8c1a2f41-371c-4ca8-aef1-6f8541d22a7c,https://inaturalist-open-data.s3.amazonaws.com/photos/511141264/medium.jpg,-23.1703325178,-65.0497896441,Humahuaca,Jujuy
+284425543,3a705891-ce58-440c-bf3a-d674ff0bf019,https://inaturalist-open-data.s3.amazonaws.com/photos/511141916/medium.jpg,-23.2946353526,-65.0205923689,Valle Grande,Jujuy
+284433015,eceba4c2-6ffb-4538-b641-1b97a61d47f6,https://inaturalist-open-data.s3.amazonaws.com/photos/511171018/medium.jpg,-19.5964242,-68.9854426997,Iquique,Tarapacá
+284809843,544dcce6-0ede-44f1-805b-8cc41c2d4164,https://inaturalist-open-data.s3.amazonaws.com/photos/511887391/medium.jpg,-22.3747638889,-68.030525,El Loa,Antofagasta
+285394945,54338165-0a93-4531-938d-f701733c07a5,https://inaturalist-open-data.s3.amazonaws.com/photos/512979459/medium.jpg,-20.8060387807,-68.7451634336,Iquique,Tarapacá
+285693558,dc7f5dde-d3a9-42c9-ae04-58b1876055cc,https://inaturalist-open-data.s3.amazonaws.com/photos/513497639/medium.jpg,-19.698,-65.8476666667,Tomás Frías,Potosí
+285693571,95de8016-09e9-428e-8968-95f8ad9ffabd,https://inaturalist-open-data.s3.amazonaws.com/photos/513498257/medium.jpg,-21.2515,-68.0208333333,Nor Lípez,Potosí
+285693572,06e630f2-8182-4c88-8883-c005787f1156,https://inaturalist-open-data.s3.amazonaws.com/photos/513498354/medium.jpg,-21.3868333333,-68.0073333333,Nor Lípez,Potosí
+286267814,37237939-e6ee-4499-a56c-8ba75feae3cd,https://inaturalist-open-data.s3.amazonaws.com/photos/514622262/medium.jpg,-20.3411722125,-68.8246026264,Iquique,Tarapacá
+287803416,6b42acb4-ec76-47c4-ad26-d933b2a13a8d,https://inaturalist-open-data.s3.amazonaws.com/photos/517518968/medium.jpg,-21.3634932507,-67.8374889493,Nor Lípez,Potosí
+288691568,da9f4591-cad3-4a10-95f7-b0875384485f,https://inaturalist-open-data.s3.amazonaws.com/photos/519200122/medium.jpg,-15.5601861111,-72.7207555556,Condesuyos,Arequipa
+288692733,75d99b3c-cfbf-4d10-80f7-abb50623c824,https://inaturalist-open-data.s3.amazonaws.com/photos/519201957/medium.jpg,-15.5592777778,-72.7217166667,Condesuyos,Arequipa
+288694630,439d5167-2d8a-4531-99e1-c295d74ebd63,https://inaturalist-open-data.s3.amazonaws.com/photos/519204903/medium.jpg,-15.5472611111,-72.6904527778,Condesuyos,Arequipa
+288695011,68fdfd4b-f40c-4441-a412-67f803c82717,https://inaturalist-open-data.s3.amazonaws.com/photos/519205439/medium.jpg,-15.5590694444,-72.7219472222,Condesuyos,Arequipa
+288897380,40eb0948-a2d6-47fb-ab05-08b2b4eb7232,https://inaturalist-open-data.s3.amazonaws.com/photos/519578816/medium.jpg,-23.6920147,-65.6478022997,Tumbaya,Jujuy
+289258713,48432c47-c7cd-413a-97fb-f59439881e46,https://inaturalist-open-data.s3.amazonaws.com/photos/520255105/medium.jpg,-15.5597055556,-72.7213361111,Condesuyos,Arequipa
+289408210,2e7e53c0-dd81-4b1c-85b5-92ff501c3369,https://static.inaturalist.org/photos/520534352/medium.jpg,-21.0403528333,-68.7304216667,Iquique,Tarapacá
+290147484,9737c979-53a4-46b6-92b1-7e53463b7f27,https://inaturalist-open-data.s3.amazonaws.com/photos/521927107/medium.jpg,-18.0575931516,-68.9417349179,Sajama,Oruro
+291645098,6e2dc237-ed81-4588-8628-cab943d830f7,https://inaturalist-open-data.s3.amazonaws.com/photos/524746075/medium.jpg,-22.4151966667,-68.0362778333,El Loa,Antofagasta
+292888668,39fd2910-182f-4cde-9323-9d4dee5efa63,https://inaturalist-open-data.s3.amazonaws.com/photos/527116527/medium.jpg,-15.5591805556,-72.721725,Condesuyos,Arequipa
+293151121,ef9c6c84-8349-4b99-94f6-8afac5404b0e,https://static.inaturalist.org/photos/527603005/medium.jpg,-15.5601111111,-72.7206111111,Condesuyos,Arequipa
+293151123,5a6629d5-030c-4640-a237-9c3237a05b3a,https://static.inaturalist.org/photos/527603174/medium.jpg,-15.5513944444,-72.7089166667,Condesuyos,Arequipa
+293336070,56096211-9f18-4918-98d9-f0b49f2e10fe,https://inaturalist-open-data.s3.amazonaws.com/photos/527965042/medium.jpg,-15.5596527778,-72.7195583333,Condesuyos,Arequipa
+293476756,4e97c758-e484-4b08-8668-368db96fb2f4,https://inaturalist-open-data.s3.amazonaws.com/photos/528219361/medium.jpg,-21.86875,-66.1420716667,Santa Catalina,Jujuy
+293503016,ae43c9bc-c5eb-4ea6-b416-9e8c3b19e3d2,https://inaturalist-open-data.s3.amazonaws.com/photos/528269339/medium.jpg,-15.2598798526,-69.0128896013,Bautista Saavedra,La Paz
+293516883,39fd93a0-effa-4ab0-abcb-a3dc34363102,https://inaturalist-open-data.s3.amazonaws.com/photos/528295703/medium.jpg,-15.2598798526,-69.0128896013,Bautista Saavedra,La Paz
+293517707,3939561b-a986-4c79-b604-977ca5321de1,https://inaturalist-open-data.s3.amazonaws.com/photos/528297304/medium.jpg,-15.2598798526,-69.0128896013,Bautista Saavedra,La Paz
+293534229,c7aab06e-586e-49b5-954c-505fa1c10cbc,https://inaturalist-open-data.s3.amazonaws.com/photos/528327089/medium.jpg,-15.2598798526,-69.0128896013,Bautista Saavedra,La Paz
+299045813,5bbe1fe7-49a0-43d2-8cc8-29ab3d5d44fb,https://inaturalist-open-data.s3.amazonaws.com/photos/538743504/medium.jpg,-22.6477736693,-67.4912362173,Sud Lípez,Potosí
+300243802,2405fa4c-b5be-4769-ae09-dd7158aa6a7e,https://static.inaturalist.org/photos/540959813/medium.jpg,-21.0269578274,-68.8118751326,Iquique,Tarapacá
+301637622,14083b19-9c95-476b-9fc8-65482e48e90b,https://inaturalist-open-data.s3.amazonaws.com/photos/543557362/medium.jpg,-16.4002885829,-71.1175892542,Arequipa,Arequipa
+301645022,b7b365fd-ce20-4267-8521-038fa8b4c0c5,https://inaturalist-open-data.s3.amazonaws.com/photos/543570947/medium.jpg,-16.4280193509,-71.0034774726,Arequipa,Arequipa
+302106938,8878c462-c7dd-4695-9641-892ee79191f8,https://inaturalist-open-data.s3.amazonaws.com/photos/544438763/medium.jpg,-18.2435590608,-69.3243241359,Parinacota,Arica y Parinacota
+303391984,87774232-3cbf-432c-85f8-cd1b5041de64,https://inaturalist-open-data.s3.amazonaws.com/photos/546829060/medium.jpg,-21.358882,-68.026549,Nor Lípez,Potosí
+303484740,190748b0-6967-4d79-abe2-cad53e1992f0,https://inaturalist-open-data.s3.amazonaws.com/photos/547000367/medium.jpg,-21.358899,-68.026645,Nor Lípez,Potosí
+306143857,896ac8c9-5ce6-40e5-a009-dbd74a709665,https://inaturalist-open-data.s3.amazonaws.com/photos/552060786/medium.jpg,-22.3847944444,-67.4036388889,Sud Lípez,Potosí
+306152690,7da68a8a-4f4a-4b73-a748-0b3e10614a52,https://inaturalist-open-data.s3.amazonaws.com/photos/552078227/medium.jpg,-16.170305,-71.516495,Arequipa,Arequipa
+306285055,25f2dffe-8e29-462f-87fd-624a56fcfcc6,https://inaturalist-open-data.s3.amazonaws.com/photos/552327419/medium.jpg,-18.6435966667,-66.0463555,Chayanta,Potosí
+306886138,b53e6669-6e87-4f0a-9a91-8f0a3dd4150c,https://inaturalist-open-data.s3.amazonaws.com/photos/553471438/medium.jpg,-18.6385716667,-66.0290971667,Chayanta,Potosí
+306889751,a817f6d4-ace3-424c-8001-b31ae7f1ca5c,https://inaturalist-open-data.s3.amazonaws.com/photos/553477733/medium.jpg,-18.63657,-66.02655,Chayanta,Potosí
+307259416,c50811bb-4ebc-42cd-98ef-3914e2ca3c61,https://static.inaturalist.org/photos/554187392/medium.jpg,-11.5731216667,-76.26847,Huarochiri,Lima
+307680500,b743eb16-c21b-40ec-acb8-6a2c84460dbf,https://inaturalist-open-data.s3.amazonaws.com/photos/555005432/medium.jpg,-17.5963863181,-69.7890279918,Tacna,Tacna
+307680502,eada8a01-faf2-4cde-8fa3-2f187c5dc71c,https://inaturalist-open-data.s3.amazonaws.com/photos/555005450/medium.jpg,-17.5939407678,-69.788684673,Tacna,Tacna
+307680508,ad6bc7cb-095a-44e5-adfc-e17b17e568d3,https://inaturalist-open-data.s3.amazonaws.com/photos/555005593/medium.jpg,-17.5953316303,-69.7877405354,Tacna,Tacna
+309000979,c8583bb2-0316-4667-bd88-75d52868a534,https://static.inaturalist.org/photos/557548221/medium.jpg,-15.6942247272,-71.5904847533,Caylloma,Arequipa
+310384551,3bb77780-8c06-464c-a54b-8fc5f4b3f423,https://inaturalist-open-data.s3.amazonaws.com/photos/560146180/medium.jpg,-20.9409603085,-68.6587310757,Iquique,Tarapacá
+311044111,18f52683-1583-40e0-869f-a7dee46f4f8e,https://inaturalist-open-data.s3.amazonaws.com/photos/561453926/medium.jpg,-17.3399397868,-70.2661614865,Candarave,Tacna
+311619901,d29a61c7-6f2e-40f7-b724-25c1c701f517,https://inaturalist-open-data.s3.amazonaws.com/photos/562553776/medium.jpg,-16.1796383333,-71.5318133333,Arequipa,Arequipa
+311619917,6be0b5df-e240-4797-a17f-e02aa37ef3dd,https://inaturalist-open-data.s3.amazonaws.com/photos/562553805/medium.jpg,-16.179645,-71.5318133333,Arequipa,Arequipa
+313301797,c6fb2cbb-2e87-44d7-bf27-dcfea58ae0cb,https://inaturalist-open-data.s3.amazonaws.com/photos/565767499/medium.jpg,-21.8724065309,-66.8827861524,Sud Lípez,Potosí
+314239212,7c5c8a98-c5a8-4f03-ac2d-81909cff5702,https://inaturalist-open-data.s3.amazonaws.com/photos/567559249/medium.jpg,-15.7257746758,-72.0208062977,Caylloma,Arequipa
+314408136,d5c31707-50a8-4cb3-be74-9759a8265a4a,https://inaturalist-open-data.s3.amazonaws.com/photos/567873760/medium.jpg,-21.3778079639,-67.7041979508,Nor Lípez,Potosí
+314770600,640f7ad2-a824-41ad-b7bd-405e16b85c91,https://inaturalist-open-data.s3.amazonaws.com/photos/568557177/medium.jpg,-21.358589841,-68.0270003607,Nor Lípez,Potosí
+315407881,cb3d6810-7aa1-4bb3-b94c-5e7ba505ba2d,https://inaturalist-open-data.s3.amazonaws.com/photos/569773136/medium.jpg,-22.2199512662,-65.2199196896,Santa Victoria,Salta
+315488409,b59d7cb3-0ad5-4567-b923-a444a17c4036,https://inaturalist-open-data.s3.amazonaws.com/photos/569926976/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+315488410,808d8418-c50a-4a6c-bba1-7a5bc2dd6543,https://inaturalist-open-data.s3.amazonaws.com/photos/569926959/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+315488411,8608bd7a-05d2-44d6-b692-fd18c5d81107,https://inaturalist-open-data.s3.amazonaws.com/photos/569926983/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+315488412,d328cccc-1847-42d9-bc6c-4215b1b47822,https://inaturalist-open-data.s3.amazonaws.com/photos/569926989/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+315488417,b0d9ad30-2e1b-4780-a7d2-a47889951f56,https://inaturalist-open-data.s3.amazonaws.com/photos/569927018/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+315834244,eaa37757-b4f3-43e4-94ae-c8cc458530c8,https://inaturalist-open-data.s3.amazonaws.com/photos/570586623/medium.jpg,-20.9004069374,-68.5498035425,Iquique,Tarapacá
+316066970,a778ee9b-3c44-460d-a7e8-f2a4160395c9,https://inaturalist-open-data.s3.amazonaws.com/photos/571021336/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+316066975,8550c81f-49ba-49e9-bfdb-b8787918f0eb,https://inaturalist-open-data.s3.amazonaws.com/photos/571021372/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+316066981,484486e9-2488-413e-92ce-8ae0226f8b0f,https://inaturalist-open-data.s3.amazonaws.com/photos/571021338/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+316066984,912259e6-2dad-4e0c-9080-1e8857961df9,https://inaturalist-open-data.s3.amazonaws.com/photos/571021367/medium.jpg,-22.4611814,-66.6284279,Rinconada,Jujuy
+316069064,6bd76461-a1e2-4254-a3f2-c01dd05384ea,https://inaturalist-open-data.s3.amazonaws.com/photos/571025358/medium.jpg,-22.5688973,-66.8975372,Rinconada,Jujuy
+316069072,8968acb3-c890-4c76-b6df-a13796b42b1e,https://inaturalist-open-data.s3.amazonaws.com/photos/571025380/medium.jpg,-22.5688973,-66.8975372,Rinconada,Jujuy
+317110162,a49614df-9680-4c73-9dd1-1598f1a04a98,https://inaturalist-open-data.s3.amazonaws.com/photos/572982630/medium.jpg,-18.23667,-69.1825633333,Parinacota,Arica y Parinacota
+317688905,b4a86db1-bc7f-476f-b9da-43344adabcd7,https://inaturalist-open-data.s3.amazonaws.com/photos/574089553/medium.jpg,-28.2023956946,-69.4887744563,Copiapó,Atacama
+317861570,5369a6b3-b35f-4dce-8e0f-38d1e9ff6abe,https://inaturalist-open-data.s3.amazonaws.com/photos/574414048/medium.jpg,-18.1752423204,-68.9597984431,Sajama,Oruro
+318415164,f31fdb86-e890-40c6-8d21-03e95997760d,https://inaturalist-open-data.s3.amazonaws.com/photos/575473194/medium.jpg,-22.0382933,-67.8825116,Sud Lípez,Potosí
