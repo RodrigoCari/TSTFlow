@@ -17,7 +17,7 @@ const header = document.createElement('div');
 header.className = 'header';
 header.innerHTML = `
   <div>
-    <div class="title">Plantas en Peligro de Extinción — Perú</div>
+    <div class="title">Plantas en Peligro de Extinción</div>
     <div class="subtitle">Explora registros geolocalizados — Filtra por departamento, provincia o ID</div>
     <div class="controls">
       <div class="search"><input id="searchInput" placeholder="Buscar por Departamento / Provincia / ID / UUID"></div>
