@@ -5,23 +5,49 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
+// UI elements
 const sidebar = document.getElementById('sidebar');
 const sidebarContent = document.getElementById('sidebarContent');
 const closeSidebarBtn = document.getElementById('closeSidebar');
 
+// create a simple header controls area (insert dynamically)
+const header = document.createElement('div');
+header.className = 'header';
+header.innerHTML = `
+  <div>
+    <div class="title">Plantas en Peligro de Extinción — Perú</div>
+    <div class="subtitle">Explora registros geolocalizados — Filtra por departamento, provincia o ID</div>
+    <div class="controls">
+      <div class="search"><input id="searchInput" placeholder="Buscar por Departamento / Provincia / ID / UUID"></div>
+      <button id="clearBtn" class="btn">Limpiar</button>
+    </div>
+  </div>
+`;
+document.body.appendChild(header);
+
+// add stats and theme toggle
+const stats = document.createElement('div');
+stats.className = 'stats';
+stats.innerHTML = `<div>Total: <strong id="totalCount">0</strong></div><div>Visibles: <strong id="visibleCount">0</strong></div>`;
+header.appendChild(stats);
+// theme toggle removed by user request
+
+// legend
+const legend = document.createElement('div');
+legend.className = 'legend';
+legend.innerHTML = `<div><span class='dot' style='background:#2b7cff'></span> Registro conocido</div>`;
+document.body.appendChild(legend);
+
 function openSidebar(item) {
-  // item es un objeto con claves del CSV: id, uuid, image_url, latitude, longitude, place_county_name, place_state_name
   const img = item.image_url ? `<img class="photo" src="${item.image_url}" alt="Foto ${item.id}">` : '';
   const html = `
     ${img}
-    <h3>ID: ${escapeHtml(item.id || '')}</h3>
+    <h3>${escapeHtml(item.scientific_name || ('ID: ' + (item.id || '')))}</h3>
     <div class="meta"><strong>UUID:</strong> ${escapeHtml(item.uuid || '')}</div>
     <div class="meta"><strong>Departamento:</strong> ${escapeHtml(item.place_state_name || '')}</div>
     <div class="meta"><strong>Provincia:</strong> ${escapeHtml(item.place_county_name || '')}</div>
     <div class="meta"><strong>Lat / Lng:</strong> ${escapeHtml(item.latitude || '')} , ${escapeHtml(item.longitude || '')}</div>
-    <div style="margin-top:10px;font-size:13px;color:#555;">
-      Fuente: iNaturalist (imagen externa)
-    </div>
+    <div class="source">Fuente: iNaturalist (imagen externa)</div>
   `;
   sidebarContent.innerHTML = html;
   sidebar.classList.add('open');
@@ -33,10 +59,8 @@ function closeSidebar() {
   sidebar.setAttribute('aria-hidden', 'true');
 }
 closeSidebarBtn.addEventListener('click', closeSidebar);
-// also close when clicking map (optional)
 map.on('click', () => closeSidebar());
 
-// simple HTML escape to avoid insetting untrusted markup
 function escapeHtml(s) {
   if (!s && s !== 0) return '';
   return String(s)
@@ -47,40 +71,105 @@ function escapeHtml(s) {
     .replace(/'/g, '&#39;');
 }
 
-// Parse CSV with PapaParse (download: true to fetch local CSV)
+// markers store for filtering & hover
+const markers = [];
+
+// pulse overlay to highlight selected marker (DivIcon)
+const pulseIcon = L.divIcon({
+  className: 'pulse',
+  html: `<div class="dot"></div>`,
+  iconSize: [28,28],
+  iconAnchor: [14,14]
+});
+let pulseMarker = null;
+function showPulseAt(lat, lng){
+  hidePulse();
+  pulseMarker = L.marker([lat, lng], { icon: pulseIcon, interactive: false, zIndexOffset: 1000 }).addTo(map);
+}
+function hidePulse(){ if (pulseMarker) { map.removeLayer(pulseMarker); pulseMarker = null; } }
+
+// helper to create custom icon (simple colored circle)
+function createCircleMarker(lat, lng, opts){
+  return L.circleMarker([lat, lng], {
+    radius: 7,
+    fillColor: '#2b7cff',
+    color: '#021124',
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.95,
+    ...opts
+  });
+}
+
+// Parse CSV with PapaParse
 Papa.parse('datos.csv', {
   download: true,
   header: true,
   skipEmptyLines: true,
   complete: function(results) {
-    const data = results.data;
+    const data = results.data || [];
+    if (!data.length) {
+      alert('No hay registros en datos.csv o el archivo está vacío.');
+      return;
+    }
+
     data.forEach(row => {
       const lat = parseFloat(row.latitude);
       const lng = parseFloat(row.longitude);
       if (isNaN(lat) || isNaN(lng)) return; // ignore invalid
-      // create marker (circleMarker)
-      const marker = L.circleMarker([lat, lng], {
-        radius: 6,
-        fillColor: '#2b7cff',
-        color: "#000",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.9
-      }).addTo(map);
+
+      const marker = createCircleMarker(lat, lng).addTo(map);
 
       // popup content with small thumbnail
       const thumbHtml = row.image_url
         ? `<img class="popup-thumb" src="${escapeHtml(row.image_url)}" alt="thumb ${escapeHtml(row.id)}">`
         : '';
-      const popupHtml = `<strong>ID: ${escapeHtml(row.id)}</strong><br>${escapeHtml(row.place_county_name || '')}, ${escapeHtml(row.place_state_name || '')}${thumbHtml}`;
+      const popupHtml = `<strong>${escapeHtml(row.scientific_name || ('ID: ' + (row.id || '')))}</strong><br>${escapeHtml(row.place_county_name || '')}, ${escapeHtml(row.place_state_name || '')}${thumbHtml}`;
 
-      marker.bindPopup(popupHtml, { maxWidth: 220 });
+      marker.bindPopup(popupHtml, { maxWidth: 260 });
 
-      // open sidebar with more info when marker clicked
+      // interactions
       marker.on('click', () => {
         openSidebar(row);
+        showPulseAt(lat, lng);
       });
+      marker.on('mouseover', function(){ this.setStyle({ radius: 10, fillColor:'#1a56d6' }); this.openPopup(); showPulseAt(lat, lng); });
+      marker.on('mouseout', function(){ this.setStyle({ radius: 7, fillColor:'#2b7cff' }); this.closePopup(); hidePulse(); });
+
+      markers.push({ marker, row, lat, lng });
     });
+
+    // fit map to markers bounds
+    const group = L.featureGroup(markers.map(m => m.marker));
+    if (group.getLayers().length) map.fitBounds(group.getBounds().pad(0.15));
+
+    // set up search
+    const input = document.getElementById('searchInput');
+    const clearBtn = document.getElementById('clearBtn');
+    const totalCountEl = document.getElementById('totalCount');
+    const visibleCountEl = document.getElementById('visibleCount');
+    totalCountEl.innerText = markers.length;
+    function updateVisibleCount(){ visibleCountEl.innerText = markers.filter(m=>map.hasLayer(m.marker)).length; }
+
+    function applyFilter(){
+      const q = (input.value || '').trim().toLowerCase();
+      let any = false;
+      markers.forEach(({marker, row}) => {
+        const haystack = [row.place_state_name, row.place_county_name, row.id, row.uuid, row.scientific_name].filter(Boolean).join(' ').toLowerCase();
+        const show = !q || haystack.indexOf(q) !== -1;
+        if (show) { marker.addTo(map); any = true; } else { map.removeLayer(marker); }
+      });
+      if (!any) {
+        legend.innerHTML = `<div style="color:#b91c1c">No se encontraron registros</div>`;
+      } else {
+        legend.innerHTML = `<div><span class='dot' style='background:#2b7cff'></span> Registro(s): ${markers.filter(m=>map.hasLayer(m.marker)).length}</div>`;
+      }
+      updateVisibleCount();
+    }
+    input.addEventListener('input', applyFilter);
+    clearBtn.addEventListener('click', () => { input.value=''; applyFilter(); });
+    // initial counts
+    updateVisibleCount();
   },
   error: function(err) {
     console.error('Error cargando CSV:', err);

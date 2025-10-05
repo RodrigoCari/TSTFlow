@@ -4,45 +4,85 @@
   <meta charset="UTF-8" />
   <title>Mapa de Plantas en Peligro de Extinción en Perú</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
   <style>
-    body, html { margin:0; padding:0; height:100%; font-family: Arial, sans-serif; }
-    #map { height: 100vh; width: 100vw; }
+    :root{
+      --card-bg: rgba(255,255,255,0.9);
+      --accent: #2b7cff;
+      --muted: #6b7280;
+      --glass: rgba(255,255,255,0.7);
+    }
+    /* make sizing predictable so padding doesn't increase element height beyond 100vh */
+    *, *::before, *::after { box-sizing: border-box; }
+    html,body{height:100%;margin:0;padding:0;font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: linear-gradient(180deg,#e6f0ff 0%, #ffffff 100%);}    
+    /* make the map fill the viewport via absolute positioning so scrollbars don't change its size */
+    #map{position:absolute;inset:0;filter: drop-shadow(0 6px 12px rgba(15,23,42,0.06));}
+
+    /* Top-left header */
+    .header {
+      position: absolute;
+      left: 18px;
+      top: 18px;
+      z-index: 1200;
+      background: linear-gradient(135deg, rgba(255,255,255,0.9), rgba(245,250,255,0.9));
+      border-radius: 12px;
+      padding: 12px 16px;
+      box-shadow: 0 6px 18px rgba(11,22,50,0.12);
+      backdrop-filter: blur(6px);
+      border: 1px solid rgba(43,124,255,0.08);
+      min-width: 280px;
+    }
+  .title { margin:0; font-size:16px; font-weight:700; color:#07203a; }
+  .subtitle { margin:2px 0 0;font-size:12px;color:var(--muted); }
+  .stats { margin-top:8px; font-size:13px; color:var(--muted); display:flex; gap:10px; align-items:center }
+  .stats strong{ color:#07203a; font-weight:700 }
+
+    /* Search box */
+    .controls { margin-top:8px; display:flex; gap:8px; align-items:center; }
+    .search {
+      flex:1; display:flex; align-items:center; gap:8px; background:var(--glass); padding:6px 8px; border-radius:10px; border:1px solid rgba(15,23,42,0.04);
+    }
+    .search input{border:0;outline:0;background:transparent;font-size:13px;width:100%;}
+    .btn { background:var(--accent); color:white; padding:7px 10px; border-radius:8px; font-weight:600; cursor:pointer; border:0; }
+
+  /* theme toggle */
+  .btn.ghost{ background:transparent;color:var(--accent);border:1px solid rgba(43,124,255,0.12)}
+
+
+    /* Legend */
+    .legend { position:absolute; left:18px; bottom:18px; z-index:1200; background:var(--card-bg); padding:10px 12px; border-radius:10px; box-shadow:0 8px 20px rgba(11,22,50,0.08); font-size:13px; color:var(--muted); }
+    .legend .dot { width:12px;height:12px;border-radius:50%;display:inline-block;margin-right:8px;vertical-align:middle }
 
     /* Sidebar */
-    #sidebar {
-      position: absolute;
-      right: 0;
-      top: 0;
-      height: 100vh;
-      width: 0;
-      background: #fff;
-      box-shadow: -4px 0 12px rgba(0,0,0,0.2);
-      overflow: auto;
-      transition: width 0.25s ease;
-      z-index: 1000;
-      padding: 0 16px;
-    }
-    #sidebar.open { width: 340px; padding: 16px; }
-    #sidebar .close-btn {
-      display: inline-block;
-      margin: 8px 0 12px;
-      padding: 6px 10px;
-      background: #f1f1f1;
-      border-radius: 6px;
-      cursor: pointer;
-      border: 1px solid #ddd;
-    }
-    #sidebar img.photo {
-      width: 100%;
-      height: auto;
-      border-radius: 6px;
-      margin-bottom: 10px;
-    }
-    #sidebar h3 { margin: 6px 0; font-size: 18px; }
-    #sidebar .meta { font-size: 14px; color: #333; }
-    #sidebar .meta strong { display:inline-block; width:110px; color:#111; }
+  #sidebar{position:absolute;right:0;top:0;bottom:0;height:auto;max-height:100vh;width:0;background:linear-gradient(180deg,#ffffff, #f7fbff);box-shadow:-8px 0 30px rgba(2,6,23,0.12);overflow:auto;transition:width 0.32s cubic-bezier(.2,.9,.2,1);z-index:1300;padding:0;border-left:1px solid rgba(43,124,255,0.06);backdrop-filter: blur(4px)}
+  #sidebar.open{width:380px;padding:18px}
+    #sidebar .close-btn{display:inline-flex;align-items:center;gap:8px;margin-bottom:12px;padding:8px 10px;background:transparent;border-radius:8px;cursor:pointer;border:1px solid rgba(11,22,50,0.04)}
+    #sidebar img.photo{width:100%;height:auto;border-radius:10px;margin-bottom:12px;box-shadow:0 8px 18px rgba(11,22,50,0.06)}
+    #sidebar h3{margin:6px 0;font-size:18px;color:#07203a}
+    #sidebar .meta{font-size:13px;color:var(--muted);margin:6px 0}
+    #sidebar .meta strong{display:inline-block;width:110px;color:#0b2440}
+    .source {margin-top:14px;font-size:12px;color:#7b8794}
+
     /* popup image styling (in popup HTML) */
-    .popup-thumb { width:120px; height:auto; display:block; border-radius:4px; margin-top:6px; }
+    .popup-thumb{width:140px;height:auto;display:block;border-radius:6px;margin-top:8px;}
+
+    /* pulsing marker (DivIcon) */
+    .pulse {
+      width:28px;height:28px;border-radius:50%;margin-left:-14px;margin-top:-14px;position:relative;box-shadow:0 6px 18px rgba(11,22,50,0.12);
+    }
+    .pulse .dot{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 rgba(43,124,255,0.6);}
+    .pulse::after{content:'';position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:10px;height:10px;border-radius:50%;background:var(--accent);animation:pulse 1.6s infinite;opacity:0.9}
+    @keyframes pulse{0%{transform:translate(-50%,-50%) scale(0.6);opacity:0.9}50%{transform:translate(-50%,-50%) scale(2.4);opacity:0.12}100%{transform:translate(-50%,-50%) scale(0.6);opacity:0.9}}
+
+    /* dark theme tweaks */
+    body.dark { background: linear-gradient(180deg,#0f1724 0%, #081226 100%); color:#e6eef8 }
+    body.dark .header{ background: linear-gradient(135deg, rgba(4,8,18,0.75), rgba(10,16,28,0.75)); border:1px solid rgba(255,255,255,0.04) }
+    body.dark .title, body.dark .subtitle { color:#e6eef8 }
+    body.dark .legend, body.dark #sidebar{ background: rgba(4,8,18,0.7); color:#cfe3ff }
+    body.dark .btn { box-shadow: none }
+
+    /* map controls small tweaks */
+    .leaflet-control-attribution{font-size:11px;opacity:0.8}
   </style>
 </head>
 <body>
