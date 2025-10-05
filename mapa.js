@@ -1,5 +1,7 @@
 // mapa.js
 const map = L.map('map').setView([-10, -75], 6);
+// expose map to global so landing can call invalidateSize after reveal
+window.appMap = map;
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
