@@ -43,10 +43,8 @@
       flex:1; display:flex; align-items:center; gap:8px; background:var(--glass); padding:6px 8px; border-radius:10px; border:1px solid rgba(15,23,42,0.04);
     }
     .search input{border:0;outline:0;background:transparent;font-size:13px;width:100%;}
-    .btn { background:var(--accent); color:white; padding:7px 10px; border-radius:8px; font-weight:600; cursor:pointer; border:0; }
+    .btn { background:var(--accent); color:white; padding:7px 10px; border-radius:8px; font-weight:600; cursor:pointer; border:0; transition:transform .12s ease, box-shadow .12s ease }
 
-  /* theme toggle */
-  .btn.ghost{ background:transparent;color:var(--accent);border:1px solid rgba(43,124,255,0.12)}
 
 
     /* Legend */
@@ -83,9 +81,31 @@
 
     /* map controls small tweaks */
     .leaflet-control-attribution{font-size:11px;opacity:0.8}
+    /* Landing: single-column centered hero (mint) */
+    #landing{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#d8f6e8;z-index:1400;transition:opacity .35s ease,transform .35s ease}
+    #landing .landing-card{width:100%;max-width:980px;padding:60px 28px;border-radius:8px;background:transparent;box-shadow:none;text-align:center}
+    #landing h1{margin:0 0 18px;font-size:42px;line-height:1.05;color:#0c553f;font-weight:700}
+    #landing p.lead{margin:0 auto 28px;color:#255445;max-width:820px;font-size:16px}
+    #openMapBtn{background:#133d2b;color:#fff;padding:12px 20px;border-radius:8px;border:0;font-weight:600;box-shadow:0 6px 18px rgba(9,44,30,0.12)}
+    #openMapBtn:hover{transform:translateY(-2px)}
+    #learnMore{display:none}
+    .landing-footer{position:fixed;left:0;right:0;bottom:10px;text-align:center;color:#285a44;font-size:13px}
+    body.app-ready #landing{opacity:0;pointer-events:none;transform:translateY(6px)}
+    body:not(.app-ready) #map{visibility:hidden;opacity:0}
+    body.app-ready #map{visibility:visible;opacity:1;transition:opacity .45s ease}
   </style>
 </head>
 <body>
+  <!-- Landing / Intro -->
+  <div id="landing">
+    <div class="landing-card">
+      <h1>Conservación de Plantas en Peligro de Extinción en el Perú</h1>
+      <p class="lead">Este proyecto busca concientizar sobre la importancia de preservar las especies vegetales amenazadas en nuestro país. Explora el mapa interactivo para conocer las ubicaciones y características de diversas plantas en peligro.</p>
+      <button id="openMapBtn" class="btn">Ver mapa</button>
+    </div>
+    <div class="landing-footer">Proyecto académico — 2025</div>
+  </div>
+
   <div id="map"></div>
 
   <div id="sidebar" aria-hidden="true">
@@ -95,6 +115,24 @@
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+  <script>
+    // Landing interaction: when user clicks CTA, reveal the map and invalidate size
+    document.addEventListener('DOMContentLoaded', function(){
+      const openBtn = document.getElementById('openMapBtn');
+      const landing = document.getElementById('landing');
+      openBtn.addEventListener('click', function(){
+        document.body.classList.add('app-ready');
+        // hide landing with transition
+        landing.classList.add('landed');
+        // after a short delay, invalidate map size if map exists
+        setTimeout(function(){
+          if (window.appMap && typeof window.appMap.invalidateSize === 'function') {
+            window.appMap.invalidateSize(true);
+          }
+        }, 350);
+      });
+    });
+  </script>
   <script src="mapa.js"></script>
 </body>
 </html>

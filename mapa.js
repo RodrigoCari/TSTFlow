@@ -1,5 +1,7 @@
 // mapa.js
 const map = L.map('map').setView([-10, -75], 6);
+// expose map to global so landing can call invalidateSize after reveal
+window.appMap = map;
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
@@ -32,18 +34,30 @@ stats.innerHTML = `<div>Total: <strong id="totalCount">0</strong></div><div>Visi
 header.appendChild(stats);
 // theme toggle removed by user request
 
-// legend
+// colors and legend
+const llaretaColor = '#6ab04c'; // green
+const pataColor = '#e17055'; // warm orange
+const defaultColor = '#2b7cff'; // blue (fallback)
+
 const legend = document.createElement('div');
 legend.className = 'legend';
-legend.innerHTML = `<div><span class='dot' style='background:#2b7cff'></span> Registro conocido</div>`;
+legend.innerHTML = `
+  <div><span class='dot' style='background:${llaretaColor}'></span> Llareta</div>
+  <div style='margin-top:6px'><span class='dot' style='background:${pataColor}'></span> Pata de huanaco</div>
+`;
 document.body.appendChild(legend);
 
 function openSidebar(item) {
   const img = item.image_url ? `<img class="photo" src="${item.image_url}" alt="Foto ${item.id}">` : '';
+  // if license is empty, show the user name in its place per user request
+  const licenseOrUser = (item.license && String(item.license).trim()) ? item.license : (item.user_name || 'Desconocido');
   const html = `
     ${img}
     <h3>${escapeHtml(item.scientific_name || ('ID: ' + (item.id || '')))}</h3>
-    <div class="meta"><strong>UUID:</strong> ${escapeHtml(item.uuid || '')}</div>
+    <div class="meta"><strong>Nombre común:</strong> ${escapeHtml(item.common_name || '')}</div>
+    <div class="meta"><strong>ID:</strong> ${escapeHtml(item.id || '')}</div>
+    <div class="meta"><strong>Usuario:</strong> ${escapeHtml(item.user_name || '')}</div>
+    <div class="meta"><strong>Licencia / Autor:</strong> ${escapeHtml(licenseOrUser)}</div>
     <div class="meta"><strong>Departamento:</strong> ${escapeHtml(item.place_state_name || '')}</div>
     <div class="meta"><strong>Provincia:</strong> ${escapeHtml(item.place_county_name || '')}</div>
     <div class="meta"><strong>Lat / Lng:</strong> ${escapeHtml(item.latitude || '')} , ${escapeHtml(item.longitude || '')}</div>
@@ -102,7 +116,7 @@ function createCircleMarker(lat, lng, opts){
 }
 
 // Parse CSV with PapaParse
-Papa.parse('datos.csv', {
+Papa.parse('data.csv', {
   download: true,
   header: true,
   skipEmptyLines: true,
@@ -118,13 +132,28 @@ Papa.parse('datos.csv', {
       const lng = parseFloat(row.longitude);
       if (isNaN(lat) || isNaN(lng)) return; // ignore invalid
 
-      const marker = createCircleMarker(lat, lng).addTo(map);
+      // choose color by species/common name
+      const speciesText = ((row.scientific_name || '') + ' ' + (row.common_name || '')).toLowerCase();
+      let color = defaultColor;
+      if (speciesText.indexOf('llareta') !== -1 || speciesText.indexOf('azorella') !== -1) {
+        color = llaretaColor;
+      } else if (speciesText.indexOf('pata') !== -1 || speciesText.indexOf('guanaco') !== -1) {
+        color = pataColor;
+      }
+      const marker = createCircleMarker(lat, lng, { fillColor: color }).addTo(map);
 
       // popup content with small thumbnail
       const thumbHtml = row.image_url
         ? `<img class="popup-thumb" src="${escapeHtml(row.image_url)}" alt="thumb ${escapeHtml(row.id)}">`
         : '';
-      const popupHtml = `<strong>${escapeHtml(row.scientific_name || ('ID: ' + (row.id || '')))}</strong><br>${escapeHtml(row.place_county_name || '')}, ${escapeHtml(row.place_state_name || '')}${thumbHtml}`;
+      const licenseOrUser = (row.license && String(row.license).trim()) ? row.license : (row.user_name || 'Desconocido');
+      const popupHtml = `
+        <strong>${escapeHtml(row.scientific_name || ('ID: ' + (row.id || '')))}</strong>
+        <div style="font-size:12px;color:#445">${escapeHtml(row.common_name || '')}</div>
+        <div style="font-size:12px;color:#667;margin-top:6px">${escapeHtml(row.place_county_name || '')}, ${escapeHtml(row.place_state_name || '')}</div>
+        ${thumbHtml}
+        <div style="font-size:11px;color:#7b8794;margin-top:6px">Licencia / Autor: ${escapeHtml(licenseOrUser)}</div>
+      `;
 
       marker.bindPopup(popupHtml, { maxWidth: 260 });
 
@@ -133,8 +162,8 @@ Papa.parse('datos.csv', {
         openSidebar(row);
         showPulseAt(lat, lng);
       });
-      marker.on('mouseover', function(){ this.setStyle({ radius: 10, fillColor:'#1a56d6' }); this.openPopup(); showPulseAt(lat, lng); });
-      marker.on('mouseout', function(){ this.setStyle({ radius: 7, fillColor:'#2b7cff' }); this.closePopup(); hidePulse(); });
+      marker.on('mouseover', function(){ this.setStyle({ radius: 10 }); this.openPopup(); showPulseAt(lat, lng); });
+      marker.on('mouseout', function(){ this.setStyle({ radius: 7 }); this.closePopup(); hidePulse(); });
 
       markers.push({ marker, row, lat, lng });
     });
