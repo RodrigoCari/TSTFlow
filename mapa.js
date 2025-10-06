@@ -17,11 +17,15 @@ const header = document.createElement('div');
 header.className = 'header';
 header.innerHTML = `
   <div>
-    <div class="title">Plantas en Peligro de Extinción</div>
-    <div class="subtitle">Explora registros geolocalizados — Filtra por departamento, provincia o ID</div>
+    <div class="title">
+Endangered Plants
+</div>
+    <div class="subtitle">
+Explore geolocated records - Filter by department, province, or ID
+</div>
     <div class="controls">
-      <div class="search"><input id="searchInput" placeholder="Buscar por Departamento / Provincia / ID / UUID"></div>
-      <button id="clearBtn" class="btn">Limpiar</button>
+      <div class="search"><input id="searchInput" placeholder="Search by Department / Province / ID / UUID"></div>
+      <button id="clearBtn" class="btn">Clear</button>
     </div>
   </div>
 `;
@@ -54,14 +58,15 @@ function openSidebar(item) {
   const html = `
     ${img}
     <h3>${escapeHtml(item.scientific_name || ('ID: ' + (item.id || '')))}</h3>
-    <div class="meta"><strong>Nombre común:</strong> ${escapeHtml(item.common_name || '')}</div>
+    <div class="meta"><strong>Common name:</strong> ${escapeHtml(item.common_name || '')}</div>
     <div class="meta"><strong>ID:</strong> ${escapeHtml(item.id || '')}</div>
-    <div class="meta"><strong>Usuario:</strong> ${escapeHtml(item.user_name || '')}</div>
-    <div class="meta"><strong>Licencia / Autor:</strong> ${escapeHtml(licenseOrUser)}</div>
-    <div class="meta"><strong>Departamento:</strong> ${escapeHtml(item.place_state_name || '')}</div>
-    <div class="meta"><strong>Provincia:</strong> ${escapeHtml(item.place_county_name || '')}</div>
-    <div class="meta"><strong>Lat / Lng:</strong> ${escapeHtml(item.latitude || '')} , ${escapeHtml(item.longitude || '')}</div>
-    <div class="source">Fuente: iNaturalist (imagen externa)</div>
+    <div class="meta"><strong>User:</strong> ${escapeHtml(item.user_name || '')}</div>
+    <div class="meta"><strong>License / Author:</strong> ${escapeHtml(licenseOrUser)}</div>
+    <div class="meta"><strong>State:</strong> ${escapeHtml(item.place_state_name || '')}</div>
+    <div class="meta"><strong>County:</strong> ${escapeHtml(item.place_county_name || '')}</div>
+    <div class="meta"><strong>Lat / 
+    Lng:</strong> ${escapeHtml(item.latitude || '')} , ${escapeHtml(item.longitude || '')}</div>
+    <div class="source">Source: iNaturalist (External Image)</div>
   `;
   sidebarContent.innerHTML = html;
   sidebar.classList.add('open');
@@ -123,7 +128,7 @@ Papa.parse('data.csv', {
   complete: function(results) {
     const data = results.data || [];
     if (!data.length) {
-      alert('No hay registros en datos.csv o el archivo está vacío.');
+      alert('There are no records in data.csv or the file is empty.');
       return;
     }
 
@@ -146,13 +151,13 @@ Papa.parse('data.csv', {
       const thumbHtml = row.image_url
         ? `<img class="popup-thumb" src="${escapeHtml(row.image_url)}" alt="thumb ${escapeHtml(row.id)}">`
         : '';
-      const licenseOrUser = (row.license && String(row.license).trim()) ? row.license : (row.user_name || 'Desconocido');
+      const licenseOrUser = (row.license && String(row.license).trim()) ? row.license : (row.user_name || 'Unknown');
       const popupHtml = `
         <strong>${escapeHtml(row.scientific_name || ('ID: ' + (row.id || '')))}</strong>
         <div style="font-size:12px;color:#445">${escapeHtml(row.common_name || '')}</div>
         <div style="font-size:12px;color:#667;margin-top:6px">${escapeHtml(row.place_county_name || '')}, ${escapeHtml(row.place_state_name || '')}</div>
         ${thumbHtml}
-        <div style="font-size:11px;color:#7b8794;margin-top:6px">Licencia / Autor: ${escapeHtml(licenseOrUser)}</div>
+        <div style="font-size:11px;color:#7b8794;margin-top:6px">License / Author: ${escapeHtml(licenseOrUser)}</div>
       `;
 
       marker.bindPopup(popupHtml, { maxWidth: 260 });
@@ -201,7 +206,7 @@ Papa.parse('data.csv', {
     updateVisibleCount();
   },
   error: function(err) {
-    console.error('Error cargando CSV:', err);
-    alert('No se pudo cargar datos.csv. Asegúrate de servir los archivos con un servidor HTTP (no abrir el archivo directamente).');
+    console.error('Error loading CSV:', err);
+    alert('Could not load data.csv. Make sure to serve the files with an HTTP server (do not open the file directly).');
   }
 });
