@@ -1,3 +1,4 @@
+// Code generated partially using AI
 // mapa.js
 const map = L.map('map').setView([-10, -75], 6);
 // expose map to global so landing can call invalidateSize after reveal
